@@ -1,0 +1,106 @@
+# aquarium-soorten
+
+Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te houden. De app haalt `species.json` en de afbeeldingen hier op; zonder internet gebruikt ze de kopie die in de app zit.
+
+## Wat erin staat
+
+- `species.json`: 89 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
+
+## Afbeeldingen en licenties
+
+De meeste afbeeldingen zijn foto's van [Wikimedia Commons](https://commons.wikimedia.org/). Ze zijn vierkant bijgesneden en verkleind, en vallen onder hun eigen licentie (CC0, publiek domein, CC BY of CC BY-SA). Een bijgesneden CC BY-SA-foto valt onder dezelfde CC BY-SA-licentie. Maker, licentie en bron staan ook per soort in het veld `foto` van `species.json`.
+
+Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare vrije foto van te vinden was.
+
+| Soort | Maker | Licentie | Bron |
+|---|---|---|---|
+| Neon (*Paracheirodon innesi*) | Wojciech J. Płuciennik | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Paracheirodon_innesi_01.jpg) |
+| Kardinaaltetra (*Paracheirodon axelrodi*) | CHUCAO | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Cardinal_Paracheirodon_axelrodi_(1).jpg) |
+| Zwarte neon (*Hyphessobrycon herbertaxelrodi*) | Brian Gratwicke | CC BY 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hyphessobrycon_herbertaxelrodi_Gratwicke.jpg) |
+| Kongotetra (*Phenacogrammus interruptus*) | lwolfartist | CC BY 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Congo_tetraNAB_3.17.jpg) |
+| Citroentetra (*Hyphessobrycon pulchripinnis*) | Waugsberg | CC BY 2.5 | [Commons](https://commons.wikimedia.org/wiki/File:Hyphessobrycon_pulchripinnis.jpg) |
+| Roodneustetra (*Hemigrammus bleheri*) | Soulkeeper | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Petitella_bleheri_(Hemigrammus_bleheri).jpg) |
+| Zebravis (*Danio rerio*) | Marrabbio2 | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Brachydanio_rerio.jpg) |
+| Parelvisje (*Celestichthys margaritatus*) | Cisamarc | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Danio_margaritatus.jpg) |
+| Harlekijnbarbeel (*Trigonostigma heteromorpha*) | NasserHalaweh | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Cyprinidae_Trigonostigma_heteromorpha_3.jpg) |
+| Kardinaalvisje (*Tanichthys albonubes*) | Petrtyl | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Tanichthys_albonubes-kardinalka_cinska.jpg) |
+| Sumatraanse barbeel (*Puntigrus tetrazona*) | André Karwath aka Aka | CC BY-SA 2.5 | [Commons](https://commons.wikimedia.org/wiki/File:Puntius_tetrazona_(aka).jpg) |
+| Kersenbarbeel (*Puntius titteya*) | Brian Gratwicke | CC BY 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Cherry_barb,_Puntius_titteya.jpg) |
+| Mosquito-rasbora (*Boraras brigittae*) | Fantomeno 14 | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Rasbora-orné-3-min-2617071259.jpg) |
+| Guppy (*Poecilia reticulata*) | 5snake5 | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Poecilia_reticulata_-_Guppy,_male,_cobra-green_morph.jpg) |
+| Platy (*Xiphophorus maculatus*) | Usien | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Xiphophorus_maculatus_Platy.JPG) |
+| Zwaarddrager (*Xiphophorus hellerii*) | Wojciech J. Płuciennik | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Xiphophorus_hellerii_young_male_01.jpg) |
+| Molly (*Poecilia sphenops*) | Dnoerholm | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:PoeciliaSphenops.jpg) |
+| Endlers guppy (*Poecilia wingei*) | Emilio17 | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Poecilia_wingei_Campoma_Guppy_male_008_en_20130428.jpg) |
+| Gevlekte pantserwels (*Corydoras paleatus*) | Ude | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Corydoras_paleatus_in_current.jpg) |
+| Brons pantserwels (*Corydoras aeneus*) | Andrew Keller | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Female_Bronze_Corydoras_(Corydoras_aeneus).jpg) |
+| Sterbai-pantserwels (*Corydoras sterbai*) | Matthew Mannell | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Corydoras_Sterbai.jpg) |
+| Dwergpantserwels (*Corydoras pygmaeus*) | Anastasiya Lvova | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Обитатели_петербургского_Океанариума_10_(cropped).jpg) |
+| Panda-pantserwels (*Corydoras panda*) | Chronotopian | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Panda_Corydoras.jpg) |
+| Antennemeerval (*Ancistrus cirrhosus*) | The Last 99 | CC BY-SA 3.0 de | [Commons](https://commons.wikimedia.org/wiki/File:Ancistrus_cirrhosus.jpg) |
+| Dwergzuigmeerval (*Otocinclus affinis*) | Cisamarc | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Macrotocinclus_affinis_resting.jpg) |
+| Maanvis (*Pterophyllum scalare*) | Versions111 | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Pterophyllum_scalare_03.jpg) |
+| Kempvis (*Betta splendens*) | Henryk Niestrój | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bojownik_syjamski.jpg) |
+| Dwerggoerami (*Trichogaster lalius*) | Jvarszegi | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Dwarf_gourami_common_color_morph.jpg) |
+| Blauwe goerami (*Trichopodus trichopterus*) | Klaus Rudloff | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Trichopodus_trichopterus_A.jpg) |
+| Parelgoerami (*Trichopodus leerii*) | h080 | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Trichopodus_leerii_h080.jpg) |
+| Honinggoerami (*Trichogaster chuna*) | Eevaya | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Honey_gourami_red_variant.jpg) |
+| Kribensis (*Pelvicachromis pulcher*) | Tino Strauss | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Pelvicachromis_pulcher_(male)_02.jpg) |
+| Ramirezi (*Mikrogeophagus ramirezi*) | Eric Mengel | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Mikrogeophagus_ramirezi,_2017.jpg) |
+| Kaketoedwergcichlide (*Apistogramma cacatuoides*) | Redspider | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Apistogramma_cacatuoides.jpg) |
+| Oscar (*Astronotus ocellatus*) | Clément Bardot | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Oscar_fish_(Astronotus_ocellatus).jpg) |
+| Dwergkogelvis (*Carinotetraodon travancoricus*) | 5snake5 | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Carinotetraodon_travancoricus_Seitenansicht.jpg) |
+| Goudvis (*Carassius auratus*) | James St. John | CC BY 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Carassius_auratus_auratus_(goldfish)_1.jpg) |
+| Zilverdollar (*Metynnis hypsauchen*) | Sesamehoneytart | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Metynnis_hypsauchen_small.jpg) |
+| Boesemans regenboogvis (*Melanotaenia boesemani*) | NasserHalaweh | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Melanotaeniidae_Melanotaenia_boesemani_1.jpg) |
+| Clownbotia (*Chromobotia macracanthus*) | Gpasques | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Chromobotia_macracanthus_Aquarium_Nancy.jpg) |
+| Kuhli-modderkruiper (*Pangio kuhlii*) | Iidkk | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Kuhli_loach_in_aquarium.jpg) |
+| Siamese algeneter (*Crossocheilus oblongus*) | aleander2137 | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Siamese_algae_eater_(Crossocheilus_oblongus).jpg) |
+| Red Cherry-garnaal (*Neocaridina davidi*) | DirkBlankenhaus | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Neocaridina-heteropoda-var-red.jpg) |
+| Amanogarnaal (*Caridina multidentata*) | Seotaro | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Caridina_multidentata(Hamamatsu,Shizuoka,Japan,2007).jpg) |
+| Crystal Red-garnaal (*Caridina cantonensis*) | Bahersayana | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Caridina_cf._cantonensis_(crysta_red_shrimp).JPG) |
+| Bamboegarnaal (*Atyopsis moluccensis*) | Kacper Aleksander | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Atyopsis_moluccensis.jpg) |
+| Posthoornslak (*Planorbarius corneus*) | Michel Langeveld | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Planorbarius_corneus_113462819.jpg) |
+| Appelslak (*Pomacea bridgesii*) | MdE | CC BY-SA 3.0 de | [Commons](https://commons.wikimedia.org/wiki/File:Pomacea_bridgesii_MdE_1.jpg) |
+| Naaldhoornslak (*Melanoides tuberculata*) | Dennis L. | CC BY 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Melanoides_tuberculatus_2.png) |
+| Zebranerietslak (*Neritina natalensis*) | TheJammingYam | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Zebra_Nerite_Snail_1.jpg) |
+| Konijnenslak (*Tylomelania sp.*) | Bschlund | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Tylomelania_towutensis.jpg) |
+| Slakkeneter (*Clea helena*) | Peter Pfeiffer | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Clea_helena.jpg) |
+| Oranje dwergkreeft (*Cambarellus patzcuarensis*) | Tommy Kronkvist | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Cambarellus_patzcuarensis-feeding.jpg) |
+| Blauwe Florida-kreeft (*Procambarus alleni*) | Emőke Dénes | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Iz_-_Procambarus_alleni_-_1.jpg) |
+| Japanse rijstvis (medaka) (*Oryzias latipes*) | Seotaro | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Oryzias_latipes.jpg) |
+| Prachtbarbeel (*Pethia conchonius*) | Usien | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Pethia_conchonius_Prachtbarbe.JPG) |
+| Buenos-Airestetra (*Psalidodon anisitsi*) | Mattia Nocciola | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Psalidodon_anisitsi_Natural_History_Museum_University_of_Pisa_(cropped_and_bright).jpg) |
+| Bloedvintetra (*Aphyocharax anisitsi*) | Hemigrammus at German Wikipedia | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Aphyocharax_anisitsi.jpg) |
+| Paradijsvis (*Macropodus opercularis*) | André Karwath aka Aka | CC BY-SA 2.5 | [Commons](https://commons.wikimedia.org/wiki/File:Macropodus_opercularis_-_side_(aka).jpg) |
+| Parelmoerdanio (*Danio albolineatus*) | Павлик Лисицын | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Danio_albolineatus_254555018.jpg) |
+| Chinese barbeel (goudbarbeel) (*Barbodes semifasciolatus*) | Chmee2 | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Puntius_semifasciolatus_in_Botanic_garden_in_Teplice.JPG) |
+| Gevlekte bergbeekgrondel (*Sewellia lineolata*) | Spiketooth | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hillstream_Loach.JPG) |
+| Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
+| Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
+| Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
+| Cryptocoryne wendtii (*Cryptocoryne wendtii*) | John Robert McPherson | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Cryptocoryne_wendtii_74_Sunbury_St_Geebung_P1070960.jpg) |
+| Dwergcryptocoryne (*Cryptocoryne parva*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Schroefvallisneria (*Vallisneria spiralis*) | Lamiot | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Vallisnérie_Vallisneria_spiralis_Brantôme-Dronne_2014_2.JPG) |
+| Amazonezwaardplant (*Echinodorus bleheri*) | Brianza2008 | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Echinozziodestateyeah.JPG) |
+| Dwergzwaardplant (*Echinodorus tenellus*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Helanthium_tenellum_kz02.jpg) |
+| Ludwigia (*Ludwigia repens*) | Show_ryu | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Ludwigia_repens.JPG) |
+| Rotala rotundifolia (*Rotala rotundifolia*) | Yercaud-elango | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Rotala_rotundifolia_pink-2-veda_aquarium-bengaluru-India.jpg) |
+| Indische waterkelk (*Hygrophila polysperma*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hygrophila_polysperma_kz01.jpg) |
+| Waterwisteria (*Hygrophila difformis*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hygrophila_difformis_kz04.jpg) |
+| Javamos (*Taxiphyllum barbieri*) | Xedoo | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Musgo-de-java-xedoo.jpg) |
+| Kerstboommos (*Vesicularia ferriei*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Drijvend levermos (*Riccia fluitans*) | Piotr Kuczynski | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Riccia_fluitans_1_(Piotr_Kuczynski).jpg) |
+| Amazonekikkerbeet (*Limnobium laevigatum*) | Cardex | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Limnobium_laevigatum.JPG) |
+| Watersla (*Pistia stratiotes*) | Mokkie | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Water_Lettuce_(Pistia_stratiotes).jpg) |
+| Hoornblad (*Ceratophyllum demersum*) | S.Tanaka | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Ceratophyllum_demersum_var.demersum..JPG) |
+| Monte Carlo (*Micranthemum tweediei*) | Yercaud-elango | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Micranthemum_tweediei-1-veda_aquarium-bengaluru-India.jpg) |
+| Glossostigma (*Glossostigma elatinoides*) | Billtsai1518 | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:矮珍珠.jpg) |
+| Cabomba (*Cabomba caroliniana*) | Leslie J. Mehrhoff, University of Connecticut, Bugwood.org | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Cabomba_caroliniana_5447120.jpg) |
+| Waterhyssop (*Bacopa caroliniana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bacopa_caroliniana_kz01.jpg) |
+| Staurogyne (*Staurogyne repens*) | 호로조 | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:S._repens_in_a_tank.jpg) |
+| Downoi (*Pogostemon helferi*) | Yercaud-elango | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Pogostemon_helferi-2-veda_aquarium-R.M.Nagar-bengaluru-India.jpg) |
+| Rode papegaaienbladplant (*Alternanthera reineckii*) | V C balakrishnan | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Alternanthera_reineckii_(2).JPG_-_Photo_by_V_C_Balakrishnan.jpg) |
+| Smal pijlkruid (*Sagittaria subulata*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Sagittaria_subulata_kz01.jpg) |
+| Egeria (waterpest) (*Egeria densa*) | Ernst Schütte | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Wasserpest.jpg) |
