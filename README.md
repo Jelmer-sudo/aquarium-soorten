@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 99 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 104 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -87,6 +87,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Florida-schijfhoren (*Planorbella duryi*) | 5snake5 | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Planorbella_duryi_-_Posthornschnecke.jpg) |
 | Hockeystick (*Thayeria boehlkei*) | Kkonstan | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Penguin_Tetra.jpg) |
 | Lichtvisje (*Hemigrammus ocellifer*) | Deadlyballistics | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Head-&-Tail-Light-Tetra.jpg) |
+| Valse roodneustetra (*Petitella rhodostoma*) | Bernat Arlandis | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Petitella_rhodostoma,_Bernat_Arlandis,_2013.jpg) |
+| Blauwe neon (*Paracheirodon simulans*) | Sascha Biedermann | CC BY-SA 2.5 | [Commons](https://commons.wikimedia.org/wiki/File:Paracheirodon_simulans.jpg) |
+| Zwarte fantoomzalm (*Hyphessobrycon megalopterus*) | R.workoran | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Black_phantom_tetra.jpg) |
+| Rode fantoomzalm (*Hyphessobrycon sweglesi*) | harum.koh | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Amazon_fish,_Red_phantom_tetra_(Hyphessobrycon_sweglesi)_(15594713287).jpg) |
+| Sierlijke tetra (*Hyphessobrycon bentosi*) | Holger Krisp | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Schmucksalmler_Hyphessobrycon_bentosi.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
