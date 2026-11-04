@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 94 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 99 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -82,6 +82,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Rouwtetra (*Gymnocorymbus ternetzi*) | D.W. | CC0 1.0 | [Commons](https://commons.wikimedia.org/wiki/File:Adulter_Trauermantelsalmer-Gymnocorymbus_ternetzi.jpg) |
 | Roodoogtetra (*Moenkhausia sanctaefilomenae*) | Cedricguppy - Loury Cédric | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Moenkhausia_sanctaefilomenae_-_Tétra_yeux_rouge_-_Aqua_Porte_Dorée_01.JPG) |
 | Serpae-tetra (*Hyphessobrycon eques*) | Francesco Loda | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hyphessobrycon_serpae_-_Serpae_Tetra.jpg) |
+| Bloedvlektetra (*Hyphessobrycon erythrostigma*) | 5snake5 | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Hyphessobrycon_erythrostigma_-_Kirschflecksalmer.jpg) |
+| Keizertetra (*Nematobrycon palmeri*) | 7TP (Krzysztof Bartosik) | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Nematobrycon_palmeri_1.jpg) |
+| Florida-schijfhoren (*Planorbella duryi*) | 5snake5 | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Planorbella_duryi_-_Posthornschnecke.jpg) |
+| Hockeystick (*Thayeria boehlkei*) | Kkonstan | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Penguin_Tetra.jpg) |
+| Lichtvisje (*Hemigrammus ocellifer*) | Deadlyballistics | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Head-&-Tail-Light-Tetra.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
