@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 109 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 114 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -97,6 +97,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Glasbloedvintetra (*Prionobrama filigera*) | Chronotopian | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bloodfin_Glass_Tetra.jpg) |
 | Gewone bijlzalm (*Gasteropelecus sternicla*) | Neale Monks | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Gasteropelecus_sternicla.JPG) |
 | Marmerbijlzalm (*Carnegiella strigata*) | Clinton & Charles Robertson | CC BY 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Gasteropelecidae_Carnegiella_strigata_(5806481295).jpg) |
+| Dwerg-potloodzalm (*Nannostomus marginatus*) | D.W. | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Nannostomus_marginatus,_adultes_Männchen.jpg) |
+| Driestrepige potloodzalm (*Nannostomus trifasciatus*) | Tsunamicarlos | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Nannostomustrifasciatus.jpg) |
+| Zebra-nerietslak (*Vittina turrita*) | Dat doris | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:GrumpySnail.jpg) |
+| Luipaardpantserwels (*Corydoras trilineatus*) | Bob Jenkins | CC BY 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Corydoras_trilineatus,_2010.jpg) |
+| Venezolaanse dwergpantsermeerval (*Corydoras habrosus*) | D.W. | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Corydoras-habrosus-Männchen.jpeg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
