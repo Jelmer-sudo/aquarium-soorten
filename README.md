@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 229 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 234 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -217,6 +217,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Blauwe botia (*Yasuhikotakia modesta*) | Lerdsuwa | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Yasuhikotakia_modesta.jpg) |
 | Skunkbotia (*Yasuhikotakia morleti*) | Lerdsuwa | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Yasuhikotakia_morleti.jpg) |
 | Dwergbotia (*Ambastaia sidthimunki*) | Stefan Maurer | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Schachbrettschmerle.jpg) |
+| Tijgerbotia (*Syncrossus hymenophysa*) | Julian augustine alexander | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Syncrossus_hymenophysa_2.jpg) |
+| Zebrabotia (*Botia striata*) | Actuallychaos | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Botia_striata_in_a_home_aquarium.jpg) |
+| Yoyobotia (*Botia almorhae*) | Orishas92 | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:Yoyo_Loach.jpg) |
+| Bengaalse botia (*Botia dario*) | Lerdsuwa | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Botia_dario.jpg) |
+| Zwarte kuhli-aal (*Pangio oblonga*) | Marrabbio2 | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Pangio_oblonga_acquarium.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
