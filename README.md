@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 189 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 194 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -177,6 +177,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Gestreepte prachtcichlide (*Pelvicachromis taeniatus*) | Ged~commonswiki (aangenomen) | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Pelvicachromis_taeniatus.jpg) |
 | Oogvlek-prachtcichlide (*Pelvicachromis subocellatus*) | Udo12345 | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Pelvicachromis_subocellatus_Moulondo_female.jpg) |
 | Sprankelende vlagcichlide (*Laetacara curviceps*) | Dnoerholm | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Laetacara_Curviceps.jpg) |
+| Blauwe acara (*Andinoacara pulcher*) | Loïc Tremblay | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Aequidens_pulcher.jpg) |
+| Gouden dwergcichlide (*Nannacara anomala*) | Borkowski.robert | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Nannacara_anomala_male1.jpg) |
+| Dambordcichlide (*Dicrossus filamentosus*) | Clinton & Charles Robertson | CC BY 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Dicrossus_filamentosus.jpg) |
+| Boliviaanse ramcichlide (*Mikrogeophagus altispinosus*) | Corpse89 | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:A_Bolivian_Ram_-_Mikrogeophagus_altispinosus.JPG) |
+| Candidi-dwergcichlide (*Taeniacara candidi*) | Gogoschinski | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Taeniacara_candidi_adult.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
