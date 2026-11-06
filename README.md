@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 174 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 179 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -138,7 +138,7 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Lamsrasbora (*Trigonostigma espei*) | AverageWalrus | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Trigonostigma_espei_2023.jpg) |
 | Glowlight-rasbora (*Trigonostigma hengeli*) | -serwacy01- | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:T_hengeli.jpg) |
 | Waigiu-nerietslak (*Vittina waigiensis*) | Obsidian Soul | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Red_racer_nerite,_Vittina_waigiensis_from_the_Philippines_04.jpg) |
-| Hi-spot rasbora (*Brevibora dorsiocellata*) | Pseudogastromyzon | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:Rasbora_dorsiocellata.jpg) |
+| Hi-spot rasbora (*Brevibora dorsiocellata*) | Pseudogastromyzon | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Rasbora_dorsiocellata.jpg) |
 | Briljantrasbora (*Rasbora einthovenii*) | -serwacy01- | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Rasbora_e.jpg) |
 | Clownrasbora (*Rasbora kalochroma*) | Factumquintus | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Rasbora_kalochroma.jpg) |
 | Roodstaartrasbora (*Rasbora borapetensis*) | Lerdsuwa | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Rasbora_borapetensis.jpg) |
@@ -162,6 +162,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Witrand-betta (*Betta albimarginata*) | BS Thurner Hof | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Betta_albimarginata_060311_8.jpg) |
 | Knorgoerami (*Trichopsis vittata*) | Grimfilth | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Trichopsis_vittata_LCK_8707.JPG) |
 | Dwergknorgoerami (*Trichopsis pumila*) | Dezinformator15 | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Sparkling_gourami.jpg) |
+| Luipaardbosvis (*Ctenopoma acutirostre*) | Fish91 | Public domain | [Commons](https://commons.wikimedia.org/wiki/File:Leopard_Bush_Fish.JPG) |
+| Oranje bosvis (*Microctenopoma ansorgii*) | Juan Carlos Palau Díaz | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Microctenopoma_ansorgii_2.jpg) |
+| Agassiz dwergcichlide (*Apistogramma agassizii*) | Cisamarc | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Apistogramma_agassizii_in_aquarium.jpg) |
+| Borelli's dwergcichlide (*Apistogramma borellii*) | Gordon Axmann | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Apistogramma_borellii.jpg) |
+| Zwarte duivelsslak (*Faunus ater*) | -serwacy01- | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Faunuster.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
