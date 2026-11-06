@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 204 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 209 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -192,6 +192,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Cupido-cichlide (*Biotodoma cupido*) | Gregdonohoe | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Biotodoma_cupido.png) |
 | Zeilvin-zuigmeerval (*Pterygoplichthys gibbiceps*) | Soulkeeper | CC BY 2.5 | [Commons](https://commons.wikimedia.org/wiki/File:Sailfin-pleco.jpg) |
 | Luipaard-zuigmeerval (*Pterygoplichthys pardalis*) | Ildar Sagdejev (Specious) | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:2004-02-02_Pterygoplichthys_pardalis_on_blue_gravel.jpg) |
+| Blauwe antennewels (*Ancistrus dolichopterus*) | Emőke Dénes | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Siluriformes_-_Ancistrus_dolichopterus_-_1.jpg) |
+| Naaldmeerval (*Farlowella acus*) | Haplochromis | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Farlowella_arcus_3.jpg) |
+| Parotocinclus maculicauda (*Parotocinclus maculicauda*) | Diogo Luiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Parotocinclus_maculicauda_46530735.jpg) |
+| Gestreepte Otocinclus (*Otocinclus vittatus*) | Chle (aangenomen) | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Otocinclus_vittatus.jpg) |
+| Koninklijke twijgmeerval (*Sturisoma panamense*) | Daiju Azuma | CC BY-SA 2.5 | [Commons](https://commons.wikimedia.org/wiki/File:Sturisoma_panamense.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
