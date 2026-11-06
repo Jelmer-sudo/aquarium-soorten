@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 209 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 214 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -197,6 +197,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Parotocinclus maculicauda (*Parotocinclus maculicauda*) | Diogo Luiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Parotocinclus_maculicauda_46530735.jpg) |
 | Gestreepte Otocinclus (*Otocinclus vittatus*) | Chle (aangenomen) | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Otocinclus_vittatus.jpg) |
 | Koninklijke twijgmeerval (*Sturisoma panamense*) | Daiju Azuma | CC BY-SA 2.5 | [Commons](https://commons.wikimedia.org/wiki/File:Sturisoma_panamense.jpg) |
+| Grootvlek-Otocinclus (*Otocinclus macrospilus*) | Rainer Schmitt | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Otocinclus_macrospilus_2.jpg) |
+| Chinese algenetende (*Gyrinocheilus aymonieri*) | Garthhh | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Gyrinocheilus_(Chinese_Algae_Eater)_in_Aquarium.jpg) |
+| Regenbooghaai (*Epalzeorhynchos frenatum*) | MerlinSenger | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Fransenlipper.JPG) |
+| Vuurstaartlabeo (*Epalzeorhynchos bicolor*) | Astellar87 | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Epalzeorhynchos_bicolor1.jpg) |
+| Towuti-slak (*Tylomelania towutensis*) | Bschlund | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Tylomelania_towutensis_2.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
