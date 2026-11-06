@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 244 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 249 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -232,6 +232,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Prachtregenboogvis (*Melanotaenia splendida*) | Emőke Dénes | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hal_-_Melanotaenia_splendida_-_1.jpg) |
 | MacCulloch regenboogvis (*Melanotaenia maccullochi*) | Jesse de Vries | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Melanotaenia_maccullochi_187466468.jpg) |
 | Rode regenboogvis (*Glossolepis incisus*) | Emőke Dénes | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hal_-_Glossolepis_incisus_-_1.jpg) |
+| Draadvin-regenboogvis (*Iriatherina werneri*) | NRJMelvinT | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Iriatherina_werneri.jpg) |
+| Gevlekte blauwoog (*Pseudomugil gertrudae*) | Atulbhats | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Getrudae_Rainbowfish.jpg) |
+| Vorkstaart-blauwoog (*Pseudomugil furcatus*) | Dirk Godlinski | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Pseudomugil_furcatus_m_Aquarium_DG.jpg) |
+| Pacifische blauwoog (*Pseudomugil signifer*) | Julien Renoult | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Pseudomugil_signifer_28436969.jpg) |
+| Celebes-zeilvin (*Marosatherina ladigesi*) | Brent Tibbatts | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Celebes_Rainbowfish.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
