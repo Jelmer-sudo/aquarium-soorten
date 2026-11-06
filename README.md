@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 144 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 149 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -132,6 +132,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Glowlight-danio (*Danio choprae*) | Sergev1001 | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Glowlight_Danio_-_Danio_Choprae.JPG) |
 | Gevlekte dwergdanio (*Danio nigrofasciatus*) | Lerdsuwa | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Danio_nigrofasciatus.jpg) |
 | Reuzendanio (*Devario aequipinnatus*) | Faucon | CC BY-SA 2.5 | [Commons](https://commons.wikimedia.org/wiki/File:Devario_aequipinnatus.JPG) |
+| Malabar-danio (*Devario malabaricus*) | Shifu Tanks | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Devario_malabaricus_-_left-facing_lateral_view_near_water_surface_(aquarium).jpg) |
+| Bengaalse danio (*Devario devario*) | Beta Mahatvaraj | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Devario_devario_hi_res.jpg) |
+| Kubota dwergrasbora (*Microdevario kubotai*) | BottomDog | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Microdevario_kubotai-hires.jpg) |
+| Lamsrasbora (*Trigonostigma espei*) | AverageWalrus | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Trigonostigma_espei_2023.jpg) |
+| Glowlight-rasbora (*Trigonostigma hengeli*) | -serwacy01- | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:T_hengeli.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
