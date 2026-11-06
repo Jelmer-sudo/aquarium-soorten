@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 249 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 254 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -237,6 +237,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Vorkstaart-blauwoog (*Pseudomugil furcatus*) | Dirk Godlinski | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Pseudomugil_furcatus_m_Aquarium_DG.jpg) |
 | Pacifische blauwoog (*Pseudomugil signifer*) | Julien Renoult | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Pseudomugil_signifer_28436969.jpg) |
 | Celebes-zeilvin (*Marosatherina ladigesi*) | Brent Tibbatts | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Celebes_Rainbowfish.jpg) |
+| Amerikaanse schijfhoren (*Planorbella trivolvis*) | Onbekend (publiek domein) | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:Planorbella_trivolvis.jpg) |
+| Madagaskar-regenboogvis (*Bedotia geayi*) | Stan Shebs | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bedotia_geayi_1.jpg) |
+| Pauwoogkwabaal (*Tateurndina ocellicauda*) | Cisamarc | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Tateurndina_ocellicauda,_male.jpg) |
+| Purpervlek-kwabaal (*Mogurnda adspersa*) | NasserHalaweh | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Eleotridae_Mogurnda_adspersa_1.jpg) |
+| Keizerkwabaal (*Hypseleotris compressa*) | Frank M. Greco | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hypseleotris_compressa.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
