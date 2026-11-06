@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 169 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 174 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -157,6 +157,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Zoenvis (*Helostoma temminckii*) | Green Yoshi | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Helostoma_temminckii_in_aquarium.jpg) |
 | Vreedzame betta (*Betta imbellis*) | DefenderRegina | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Betta_imbellis_(male)_20100512.jpg) |
 | Smaragdbetta (*Betta smaragdina*) | Acapella | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Betta_smaragdina_pair1.jpg) |
+| Javaanse betta (*Betta picta*) | Ganjar Cahyadi | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Betta_picta.jpg) |
+| Neritina pulligera (*Neritina pulligera*) | Kacper Aleksander | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Neritina_pulligera.jpg) |
+| Witrand-betta (*Betta albimarginata*) | BS Thurner Hof | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Betta_albimarginata_060311_8.jpg) |
+| Knorgoerami (*Trichopsis vittata*) | Grimfilth | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Trichopsis_vittata_LCK_8707.JPG) |
+| Dwergknorgoerami (*Trichopsis pumila*) | Dezinformator15 | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Sparkling_gourami.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
