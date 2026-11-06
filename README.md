@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 199 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 204 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -187,6 +187,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Vuurkeelcichlide (*Thorichthys meeki*) | 5snake5 | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Thorichthys_meeki_-_Feuermaulbuntbarsch.jpg) |
 | Rode acara (*Hemichromis bimaculatus*) | Klaus Rudloff | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hemichromis_bimaculatus_A.jpg) |
 | Severumcichlide (*Heros severus*) | Alexxx1979 | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Cichlasoma_severum_DSC00552_2200.jpg) |
+| Roodborst-aardeneter (*Geophagus steindachneri*) | Klaus Rudloff | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Geophagus_steindachneri.jpg) |
+| Satanoperca leucosticta (*Satanoperca leucosticta*) | Dr. David Midgley | CC BY-SA 2.5 | [Commons](https://commons.wikimedia.org/wiki/File:Satanoperca_leucosticta_(1).jpg) |
+| Cupido-cichlide (*Biotodoma cupido*) | Gregdonohoe | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Biotodoma_cupido.png) |
+| Zeilvin-zuigmeerval (*Pterygoplichthys gibbiceps*) | Soulkeeper | CC BY 2.5 | [Commons](https://commons.wikimedia.org/wiki/File:Sailfin-pleco.jpg) |
+| Luipaard-zuigmeerval (*Pterygoplichthys pardalis*) | Ildar Sagdejev (Specious) | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:2004-02-02_Pterygoplichthys_pardalis_on_blue_gravel.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
