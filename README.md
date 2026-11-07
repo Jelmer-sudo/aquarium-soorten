@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 254 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 259 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -242,6 +242,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Pauwoogkwabaal (*Tateurndina ocellicauda*) | Cisamarc | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Tateurndina_ocellicauda,_male.jpg) |
 | Purpervlek-kwabaal (*Mogurnda adspersa*) | NasserHalaweh | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Eleotridae_Mogurnda_adspersa_1.jpg) |
 | Keizerkwabaal (*Hypseleotris compressa*) | Frank M. Greco | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hypseleotris_compressa.jpg) |
+| Kaap-Lopez-killivis (*Aphyosemion australe*) | KKPCW | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Aphyosemion_australe_in_Higashiyama_Zoo.jpg) |
+| Günther killivis (*Nothobranchius guentheri*) | Jokuyken15 | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Nothobranchius_guentheri.jpg) |
+| Rachow killivis (*Nothobranchius rachovii*) | Cisamarc | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Rachovii.jpg) |
+| Gardner killivis (*Fundulopanchax gardneri*) | Alexander Prokoshev | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Fundulopanchax_gardneri_gardneri.JPG) |
+| Clownkillivis (*Epiplatys annulatus*) | Dornenwolf | CC BY 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Ringelhechtling_-Epiplatys_annulatus.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
