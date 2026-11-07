@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 288 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 293 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -276,6 +276,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Roodoog-Afrikaanse tetra (*Arnoldichthys spilopterus*) | Klaus Rudloff | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Arnoldichthys_spilopterus_A.jpg) |
 | Langvin-Afrikaanse tetra (*Brycinus longipinnis*) | Rufus46 | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Langflossensalmler_Brycinus_longipinnis_Tierpark_Hellabrunn-1.jpg) |
 | Vuuraal (*Mastacembelus erythrotaenia*) | Llandor | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Ildaal.jpg) |
+| Eenstrepige Afrikaanse zalm (*Nannaethiops unitaeniatus*) | Francois Libert | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:One-lined_African_Characin_-_Nannaethiops_unitaeniatus.jpg) |
+| Glaskarpermeerval (*Alestopetersius caudalis*) | The Great Mule of Eupatoria | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Yellow_tailed_tetra.jpg) |
+| Gestreepte kopstaander (*Anostomus anostomus*) | Brian Gratwicke | CC BY 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anostomus_anostomus,_striped_headstander.jpg) |
+| Zwartgestreepte kopstaander (*Leporinus fasciatus*) | Bernard DUPONT | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Banded_Leporinus_(Leporinus_fasciatus)_(7124562451).jpg) |
+| Hoogrug-kopstaander (*Abramites hypselonotus*) | Haplochromis | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Abramites_hypselonotus.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
