@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 323 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 328 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -311,6 +311,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Altum-schaarvis (*Pterophyllum altum*) | NasserHalaweh | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Cichlidae_Pterophyllum_altum_2.jpg) |
 | Discusvis (*Symphysodon aequifasciatus*) | H. Zell | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Symphysodon_aequifasciatus_-_Karlsruhe_Zoo_03.jpg) |
 | Symphysodon discus (*Symphysodon discus*) | Limesle | CC BY-SA 2.5 | [Commons](https://commons.wikimedia.org/wiki/File:Discus_heckel.jpg) |
+| Uaru (*Uaru amphiacanthoides*) | Brent Tibbats | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Uaru_amphiacanthoides_Singapore.jpg) |
+| Jurupari-aardeneter (*Satanoperca jurupari*) | Chrumps | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Satanoperca--jurupari.jpg) |
+| Geophagus altifrons (*Geophagus altifrons*) | DIFish | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Altifrons.jpg) |
+| Braziliaanse aardeneter (*Geophagus brasiliensis*) | Cezary Porycki | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Geophagus_brasiliensis_c01.jpg) |
+| Groene terreur (*Andinoacara rivulatus*) | H. Zell | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Andinoacara_rivulatus_-_Karlsruhe_Zoo_01.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
