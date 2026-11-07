@@ -269,7 +269,7 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Scharlaken badis (*Dario dario*) | ATuin-hek at English Wikipedia | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Dario_dario_male.jpg) |
 | Schomburgk bladvis (*Polycentrus schomburgkii*) | karsten_s | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Polycentrus_schomburgkii_32045429.jpg) |
 | Roodstaart-kogelvis (*Carinotetraodon lorteti*) | Павлик Лисицын | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Carinotetraodon_lorteti_248508857_2.jpg) |
-| Irrubesco-kogelvis (*Carinotetraodon irrubesco*) | Neale Monks at English Wikipedia | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Carinotetraodon_irrubesco_female.JPG) |
+| Carinotetraodon irrubesco (*Carinotetraodon irrubesco*) | Neale Monks at English Wikipedia | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Carinotetraodon_irrubesco_female.JPG) |
 | Zuid-Amerikaanse kogelvis (*Colomesus asellus*) | O. Schneider | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Assel-Kugelfisch.jpg) |
 | Ceylon-kogelvis (*Leiodon cutcutia*) | Sahat Ratmuangkhwang | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Tetraodon_cutcutia.jpg) |
 | Zesbandige distichodus (*Distichodus sexfasciatus*) | Hectonichus | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Distichodontidae_-_Distichodus_sexfasciatus.JPG) |
