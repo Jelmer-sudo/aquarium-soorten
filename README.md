@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 293 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 298 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -281,6 +281,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Gestreepte kopstaander (*Anostomus anostomus*) | Brian Gratwicke | CC BY 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anostomus_anostomus,_striped_headstander.jpg) |
 | Zwartgestreepte kopstaander (*Leporinus fasciatus*) | Bernard DUPONT | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Banded_Leporinus_(Leporinus_fasciatus)_(7124562451).jpg) |
 | Hoogrug-kopstaander (*Abramites hypselonotus*) | Haplochromis | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Abramites_hypselonotus.jpg) |
+| Gestippelde kopstaander (*Chilodus punctatus*) | Jørn | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Chilodus_punctatus.jpg) |
+| Spatzalm (*Copella arnoldi*) | Zikamoi | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Copella_arnoldi.jpg) |
+| Tweevlek-lebiasina (*Lebiasina bimaculata*) | Gustav Ywanaga | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Charcoca.jpg) |
+| Metynnis argenteus (*Metynnis argenteus*) | Derek Ramsey (Ram-Man) | CC BY-SA 2.5 | [Commons](https://commons.wikimedia.org/wiki/File:Silver_dollar_fish_Metynnis_argenteus.jpg) |
+| Zwartbandschijfzalm (*Myloplus schomburgkii*) | Ltshears | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:Myleus_schomburgkii.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
