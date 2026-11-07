@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 308 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 313 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -296,6 +296,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Roze tetra (*Megalamphodus rosaceus*) | karsten_s | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hyphessobrycon_rosaceus_35474466.jpg) |
 | Mooie tetra (*Holopristis pulchra*) | SOK | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hemigrammus_pulcher_1.jpg) |
 | Tinfoilbarbeel (*Barbonymus schwanefeldii*) | Emke Dnes | CC BY-SA 2.5 | [Commons](https://commons.wikimedia.org/wiki/File:Barbonymus_schwanenfeldii_-_Cornwall_(aquarium).jpg) |
+| Roodvinbarbeel (*Barbonymus altus*) | Vassil | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Aquarium_tropical_de_Pierrefitte-Nestalas_03082018_Barbus_à_queue_rouge_Barbonymus_altus_1.jpg) |
+| Spanner-barbeel (*Striuntius lateristriga*) | opencage | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Puntius_lateristriga.jpg) |
+| Arulius-barbeel (*Dawkinsia arulius*) | Marcus Knight | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Dawkinsia_arulius_-Marcus_Knight.jpg) |
+| Stoliczka barbeel (*Pethia stoliczkana*) | The Great Mule of Eupatoria | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Pethia_stoliczkana_fahad.jpg) |
+| Afrikaanse bandbarbeel (*Enteromius fasciolatus*) | Frank M. Greco | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Enteromius_fasciolatus_FMG.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
