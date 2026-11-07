@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 269 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 274 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -257,6 +257,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Vlindergoodeide (*Ameca splendens*) | Usien | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Ameca_splendens_Jungtier_2016-12-11.JPG) |
 | Mestandkarper (*Alfaro cultratus*) | Livebearerguy | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Alfaro_cultratus_(3).jpg) |
 | Merry widow (*Phallichthys amates*) | Nick Tobler (Cowturtle) | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Merry_Widow,_Calle_Central,_Río_Cuarto,_Alajuela,_CR_imported_from_iNaturalist_photo_400705619.jpg) |
+| Atlantische molly (*Poecilia mexicana*) | Elfabso | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Poecilia_mexicana_female.jpg) |
+| Vlindervis (*Pantodon buchholzi*) | Toniher | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Pantodon_buchholzi.jpg) |
+| Senegalese kwastsnoek (*Polypterus senegalus*) | Tommy Andriollo | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Polypterus_senegalus_243650469.jpg) |
+| Wimpelaal (*Erpetoichthys calabaricus*) | Tylwyth Eldar | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Erpetoichthys_calabaricus_01.jpg) |
+| Prachtvinkwastsnoek (*Polypterus ornatipinnis*) | Bloopityboop | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Polypterus_ornatipinnis_VA_01.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
