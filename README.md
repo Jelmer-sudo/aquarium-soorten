@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 353 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 358 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -341,6 +341,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Paracyprichromis nigripinnis (*Paracyprichromis nigripinnis*) | Klaus Rudloff | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Paracyprichromis nigripinnis A.jpg) |
 | Goudnugget-zuigmeerval (L18) (*Baryancistrus xanthellus*) | Anne Blindheim | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Baryancistrus-L18.jpg) |
 | Zebra-zuigmeerval (L46) (*Hypancistrus zebra*) | Birger A | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hypancistrus zebra4305.jpg) |
+| Zonne-zuigmeerval (L14) (*Scobinancistrus aureatus*) | Gabriel Lelis Togni | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Scobinancistrus aureatus.jpg) |
+| Luipaard-kaktusmeerval (*Pseudacanthicus leopardus*) | Sesamehoneytart | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Pseudacanthicus leopardus.JPG) |
+| Roze-staart-chalceus (*Chalceus macrolepidotus*) | opencage | CC BY-SA 2.5 | [Commons](https://commons.wikimedia.org/wiki/File:Chalceus macrolepidotus.jpg) |
+| Zilveren arowana (*Osteoglossum bicirrhosum*) | Qwertzy2 | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Osteoglossum bicirrhosum.JPG) |
+| Klonmesvis (*Chitala ornata*) | Mistvan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Chitala ornata (Zoo Brno, Czech Republic).jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
