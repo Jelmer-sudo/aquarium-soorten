@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 382 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 387 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -370,6 +370,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Danio roseus (*Danio roseus*) | Lerdsuwa | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Danio roseus.jpg) |
 | Danio dangila (*Danio dangila*) | Beta Mahatvaraj | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Danio dangila.jpg) |
 | Rasbora elegans (*Rasbora elegans*) | Muhammad Rasul Abdullah Halim | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Rasbora elegans.jpg) |
+| Horadandia atukorali (*Horadandia atukorali*) | Frank M. Greco | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Green carplet.jpg) |
+| Boraras naevus (*Boraras naevus*) | Andrew Bogott | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Boraras naevus.png) |
+| Apistogramma steindachneri (*Apistogramma steindachneri*) | Jonathan Armbruster | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Apistogramma steindachneri Armbruster.jpg) |
+| Laetacara araguaiae (*Laetacara araguaiae*) | Frank M. Greco | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Laetacara araguaiae.jpg) |
+| Crenicichla lepidota (*Crenicichla lepidota*) | Hmsmariano | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Crenicichla lepidota male.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
