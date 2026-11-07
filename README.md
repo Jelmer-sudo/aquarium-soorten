@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 338 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 343 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -326,6 +326,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Gouden mbuna (*Melanochromis auratus*) | Vlad Butsky | CC BY 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Melanochromis_auratus_(male).jpg) |
 | Baensch peacock (*Aulonocara baenschi*) | Rjcastillo | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Aulonocara_baenschi_20241123.jpg) |
 | Stuart Grant peacock (*Aulonocara stuartgranti*) | Mike Peel | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Frankfurt_Zoo_-_Aulonocara_stuartgranti_Usisya.jpg) |
+| Poederblauwe mbuna (*Chindongo socolofi*) | Jutta234 | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Pseudotropheus_socolofi_-_Zoo_Frankfurt.jpg) |
+| Cynotilapia afra (*Cynotilapia afra*) | Alexandra Tyers | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Cynotilapia_afra.jpg) |
+| Slakkenhuiscichlide (*Neolamprologus multifasciatus*) | NasserHalaweh | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Cichlidae_Neolamprologus_multifasciatus_1.jpg) |
+| Prinses van Burundi (*Neolamprologus pulcher*) | DenesFeri | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Neolamprologus_pulcher_-_aquarium_1.jpg) |
+| Gouden Julidochromis (*Julidochromis ornatus*) | FakirNL | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Julidochromis_ornatus_in_Ouwehands_Dierenpark.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
