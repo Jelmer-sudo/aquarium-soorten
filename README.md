@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 372 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 377 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -360,6 +360,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Metynnis lippincottianus (*Metynnis lippincottianus*) | Sortius | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Metynnis lippincottianus - Spotted Silver Dollar.jpg) |
 | Olifantsvis (*Gnathonemus petersii*) | OpenCage | CC BY-SA 2.5 | [Commons](https://commons.wikimedia.org/wiki/File:Gnathonemus petersii by OpenCage.jpg) |
 | Corydoras nattereri (*Corydoras nattereri*) | Diogo Luiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Corydoras nattereri 45975398.jpg) |
+| Corydoras agassizii (*Corydoras agassizii*) | NasserHalaweh | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Callichthyidae Corydoras agassizii 1.jpg) |
+| Corydoras leopardus (*Corydoras leopardus*) | Frank M. Greco | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Corydoras leopardus.jpg) |
+| Dawkinsia tambraparniei (*Dawkinsia tambraparniei*) | AravindManoj | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Dawkinsia Tambraparaniei.jpg) |
+| Dawkinsia assimilis (*Dawkinsia assimilis*) | Rahul Gautam | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:D assimilis - Rahul Gautam.jpg) |
+| Puntius vittatus (*Puntius vittatus*) | Smrithy Raj | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bhava vittata.png) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
