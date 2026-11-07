@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 368 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 372 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -356,6 +356,10 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Axelrodia riesei (*Axelrodia riesei*) | Thomas Siems | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Pfeffersalmler Axelrodia riesei (16467043916).jpg) |
 | Mexicaanse tetra (*Astyanax mexicanus*) | Haplochromis | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Astyanax mexicanus.JPG) |
 | Carnegiella marthae (*Carnegiella marthae*) | Dulcimerist | CC BY-SA 2.5 | [Commons](https://commons.wikimedia.org/wiki/File:Carnegiella marthae.jpg) |
+| Nannostomus eques (*Nannostomus eques*) | Guérin Nicolas | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Nannostomus eques.JPG) |
+| Metynnis lippincottianus (*Metynnis lippincottianus*) | Sortius | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Metynnis lippincottianus - Spotted Silver Dollar.jpg) |
+| Olifantsvis (*Gnathonemus petersii*) | OpenCage | CC BY-SA 2.5 | [Commons](https://commons.wikimedia.org/wiki/File:Gnathonemus petersii by OpenCage.jpg) |
+| Corydoras nattereri (*Corydoras nattereri*) | Diogo Luiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Corydoras nattereri 45975398.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
