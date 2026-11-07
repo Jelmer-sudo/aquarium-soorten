@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 348 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 353 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -336,6 +336,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Lamprologus ocellatus (*Lamprologus ocellatus*) | Regani | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:Lamprologus_ocellatus.jpg) |
 | Cyprichromis leptosoma (*Cyprichromis leptosoma*) | Regani | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:Cyprichromis_leptosoma.jpg) |
 | Tropheus duboisi (*Tropheus duboisi*) | Manfred Werner / Tsui | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Tropheus_duboisi_Schoenbrunn2008.jpg) |
+| Eretmodus cyanostictus (*Eretmodus cyanostictus*) | Jtanganyika | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Eretmodus-sp-kavala1.jpg) |
+| Frontosa (*Cyphotilapia frontosa*) | Patrick Ch. Apfeld | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Cyphotilapia frontosa Zoo Cologne.jpg) |
+| Paracyprichromis nigripinnis (*Paracyprichromis nigripinnis*) | Klaus Rudloff | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Paracyprichromis nigripinnis A.jpg) |
+| Goudnugget-zuigmeerval (L18) (*Baryancistrus xanthellus*) | Anne Blindheim | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Baryancistrus-L18.jpg) |
+| Zebra-zuigmeerval (L46) (*Hypancistrus zebra*) | Birger A | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hypancistrus zebra4305.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
