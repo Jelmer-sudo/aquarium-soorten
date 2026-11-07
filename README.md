@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 313 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 318 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -301,6 +301,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Arulius-barbeel (*Dawkinsia arulius*) | Marcus Knight | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Dawkinsia_arulius_-Marcus_Knight.jpg) |
 | Stoliczka barbeel (*Pethia stoliczkana*) | The Great Mule of Eupatoria | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Pethia_stoliczkana_fahad.jpg) |
 | Afrikaanse bandbarbeel (*Enteromius fasciolatus*) | Frank M. Greco | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Enteromius_fasciolatus_FMG.jpg) |
+| Jae barbeel (*Enteromius jae*) | Udo Vornhusen | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Enteromius_jae.jpg) |
+| Deissner gourami (*Parosphromenus deissneri*) | YIE BABEL | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Parosphromenus_deissneri.jpg) |
+| Chocoladegoerami (*Sphaerichthys osphromenoides*) | Tsunamicarlos | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:Sphaerichthys_osphromenoides.jpg) |
+| Kamstaart-gourami (*Belontia signata*) | H. Zell | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Belontia_signata_-_Wilhelma_01.jpg) |
+| Rode betta (*Betta coccina*) | Parostoteles | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Betta_coccina_"Jambi-Sumatra".JPG) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
