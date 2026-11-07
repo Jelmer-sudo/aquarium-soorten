@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 358 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 362 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -346,6 +346,10 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Roze-staart-chalceus (*Chalceus macrolepidotus*) | opencage | CC BY-SA 2.5 | [Commons](https://commons.wikimedia.org/wiki/File:Chalceus macrolepidotus.jpg) |
 | Zilveren arowana (*Osteoglossum bicirrhosum*) | Qwertzy2 | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Osteoglossum bicirrhosum.JPG) |
 | Klonmesvis (*Chitala ornata*) | Mistvan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Chitala ornata (Zoo Brno, Czech Republic).jpg) |
+| Dario hysginon (*Dario hysginon*) | Crazyhund | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Dario Hysginon.jpg) |
+| Gestreepte mesaal (*Gymnotus carapo*) | aquaportail.com | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Gymnotus Carapo en aquarium.jpg) |
+| Platkopkwiekwie (*Callichthys callichthys*) | CHUCAO | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Callichthys callichthys.JPG) |
+| Megalechis thoracata (*Megalechis thoracata*) | Danny Steaven | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hoplosternum-thoracatum-001.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
