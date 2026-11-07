@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 413 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 418 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -401,6 +401,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Snoekkopgoerami (*Luciocephalus pulcher*) | BEDO (Thailand) | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Luciocephalus pulcher (Gray, 1830).jpg) |
 | Cyrtocara moorii (*Cyrtocara moorii*) | Riftreef | CC BY 2.5 | [Commons](https://commons.wikimedia.org/wiki/File:Cyrtocara moorii.jpg) |
 | Sciaenochromis fryeri (*Sciaenochromis fryeri*) | NasserHalaweh | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Cichlidae Sciaenochromis fryeri 1.jpg) |
+| Elassoma evergladei (*Elassoma evergladei*) | Brian Gratwicke | CC BY 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Pygmy Sunfish, Elassoma evergladei.jpg) |
+| Polypterus delhezi (*Polypterus delhezi*) | Steven G. Johnson | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Ornate bichir, Boston Aquarium.JPG) |
+| Polypterus endlicherii (*Polypterus endlicherii*) | opencage | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Polypterus endlicherii.jpg) |
+| Notopterus notopterus (*Notopterus notopterus*) | Xufanc | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Notopterus notopterus43.JPG) |
+| Groene mesvis (*Eigenmannia virescens*) | Luis Ruiz Berti | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Eigenmannia virescens 000.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
