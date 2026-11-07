@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 399 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 404 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -385,6 +385,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Labeotropheus fuelleborni (*Labeotropheus fuelleborni*) | Doronenko | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Labeotropheus fuelleborni 02.jpg) |
 | Altolamprologus compressiceps (*Altolamprologus compressiceps*) | H. Zell | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Altolamprologus compressiceps - Karlsruhe Zoo 01.jpg) |
 | Ambastaia nigrolineata (*Ambastaia nigrolineata*) | Lerdsuwa | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Yasuhikotakia nigrolineata.jpg) |
+| Rhadinocentrus ornatus (*Rhadinocentrus ornatus*) | Dirk Godlinski | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Rhadinocentrus ornatus Searys Ck male.JPG) |
+| Nothobranchius furzeri (*Nothobranchius furzeri*) | Ugau | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Nothobranchius furzeri GRZ.jpg) |
+| Limia melanogaster (*Limia melanogaster*) | Radek Sejkora | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Limia melanogaster.jpg) |
+| Limia perugiae (*Limia perugiae*) | Livebearerguy | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Limia perugiae (1).jpg) |
+| Xiphophorus montezumae (*Xiphophorus montezumae*) | Cedricguppy - Loury Cédric | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Xiphophorus montezumae - AquaPorteDoree 04.JPG) |
 | Cyrtocara moorii (*Cyrtocara moorii*) | Riftreef | CC BY 2.5 | [Commons](https://commons.wikimedia.org/wiki/File:Cyrtocara moorii.jpg) |
 | Sciaenochromis fryeri (*Sciaenochromis fryeri*) | NasserHalaweh | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Cichlidae Sciaenochromis fryeri 1.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
