@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 303 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 308 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -291,6 +291,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Blauwe tetra (*Boehlkea fredcochui*) | Axel Zarske & D. Bork | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Boehlkea_fredcochui_(live).png) |
 | Bucktooth-tetra (*Exodon paradoxus*) | Ltshears | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bucktoothed_Tetra.jpg) |
 | Rode rio (*Hyphessobrycon flammeus*) | Susanne Möller-Neukäter | CC BY 2.5 | [Commons](https://commons.wikimedia.org/wiki/File:Hyphessobrycon_flammeus.jpg) |
+| Gele tetra (*Hyphessobrycon bifasciatus*) | D. Bork and A. Zarske | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hyphessobrycon_bifasciatus_(standard)_(31134).png) |
+| Loreto-tetra (*Hyphessobrycon loretoensis*) | A. Zarske, D. Bork, H.J. Franke | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hyphessobrycon_loretoensis_(31536).png) |
+| Roze tetra (*Megalamphodus rosaceus*) | karsten_s | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hyphessobrycon_rosaceus_35474466.jpg) |
+| Mooie tetra (*Holopristis pulchra*) | SOK | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hemigrammus_pulcher_1.jpg) |
+| Tinfoilbarbeel (*Barbonymus schwanefeldii*) | Emke Dnes | CC BY-SA 2.5 | [Commons](https://commons.wikimedia.org/wiki/File:Barbonymus_schwanenfeldii_-_Cornwall_(aquarium).jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
