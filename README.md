@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 264 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 269 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -252,6 +252,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Floridatandkarper (*Jordanella floridae*) | nat_t | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Jordanella_floridae_182122551.jpg) |
 | Blauwvin-killivis (*Lucania goodei*) | Brian Gratwicke | CC BY 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Lucania_goodei.jpg) |
 | Puntige blaashoren (*Physella acuta*) | Barbalalaika | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Physella_acuta_on_an_aquarium_plant.jpg) |
+| Daisy's rijstvisje (*Oryzias woworae*) | Aquakeeper14 | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Daisy's_Ricefish.JPG) |
+| Roodstaart-goodeide (*Xenotoca eiseni*) | Andrew Bogott | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Xenotoca_eiseni_San_Marcos_Male.png) |
+| Vlindergoodeide (*Ameca splendens*) | Usien | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Ameca_splendens_Jungtier_2016-12-11.JPG) |
+| Mestandkarper (*Alfaro cultratus*) | Livebearerguy | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Alfaro_cultratus_(3).jpg) |
+| Merry widow (*Phallichthys amates*) | Nick Tobler (Cowturtle) | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Merry_Widow,_Calle_Central,_Río_Cuarto,_Alajuela,_CR_imported_from_iNaturalist_photo_400705619.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
