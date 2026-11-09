@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 428 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 433 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -416,6 +416,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Hemigrammus stictus (*Hemigrammus stictus*) | Clinton & Charles Robertson | CC BY 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hemigrammus_stictus.jpg) |
 | Glansstreepzalm (*Hemigrammus bellottii*) | Haplochromis | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Hemigrammus_bellottii.jpg) |
 | Hemigrammus schmardae (*Hemigrammus schmardae*) | Axel Zarske, Pierre-Yves Le Bail, and Jacques Géry | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hemigrammus_schmardae_(236594139).png) |
+| Hyphessobrycon agulha (*Hyphessobrycon agulha*) | Oregon State University | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hyphessobrycon_agulha_by_Rafael_Leitão.jpg) |
+| Hyphessobrycon compressus (*Hyphessobrycon compressus*) | Carvalho, Malabarba, Endruweit, and Tobler | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hyphessobrycon_compressus_(Marco_Endruweit).png) |
+| Hyphessobrycon epicharis (*Hyphessobrycon epicharis*) | Axel Zarske (with help from Bastian, N. Khardina, and Bork) | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hyphessobrycon_epicharis_(uncataloged_import).png) |
+| Moenkhausia bonita (*Moenkhausia bonita*) | Felipe Alonso, Liliana Ciotek, and Miguel Albarenga | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Moenkhausia_bonita_(CI-FML_5351).png) |
+| Poptella compressa (*Poptella compressa*) | Julien Renoult | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Poptella_compressa_11831742.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
