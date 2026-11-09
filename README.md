@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 503 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 508 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -491,6 +491,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Xiphophorus nigrensis (*Xiphophorus nigrensis*) | Livebearerguy | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Xiphophorus_nigrensis_male_1.jpg) |
 | Xiphophorus pygmaeus (*Xiphophorus pygmaeus*) | Trondro tsara | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Pygmy_Swordtail.jpg) |
 | Xiphophorus signum (*Xiphophorus signum*) | Livebearerguy | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Xiphophorus_signum_(2).jpg) |
+| Skiffia multipunctata (*Skiffia multipunctata*) | Livebearerguy | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Skiffia_multipunctata_(3)_male.jpg) |
+| Zoogoneticus tequila (*Zoogoneticus tequila*) | Cedricguppy - Loury Cédric | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Zoogoneticus_tequila_-_PorteDoreeParis_01.JPG) |
+| Characodon lateralis (*Characodon lateralis*) | Cedricguppy - Loury Cédric | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Characodon_lateralis_-_AquaPorteDoree_01.JPG) |
+| Xenoophorus captivus (*Xenoophorus captivus*) | Cedricguppy - Loury Cédric | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Xenoophorus_captivus_-_Aquaportedor%C3%A9e_01.JPG) |
+| Vieroogvis (*Anableps anableps*) | Quartl | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anableps_anableps_qtl1.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
