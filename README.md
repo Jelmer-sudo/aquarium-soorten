@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 473 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 478 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -461,6 +461,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Nothobranchius korthausae (*Nothobranchius korthausae*) | Andrew Bogott | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Nothobranchius_korthausae_male.png) |
 | Nothobranchius eggersi (*Nothobranchius eggersi*) | Andrewbogott | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Nothobranchius_eggersi_Lasaba_TAN_19-24.png) |
 | Pachypanchax omalonotus (*Pachypanchax omalonotus*) | Tino Strauss | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Pachypanchax_omalonotus_01.jpg) |
+| Pachypanchax sakaramyi (*Pachypanchax sakaramyi*) | NasserHalaweh | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Aplocheilidae_Pachypanchax_sakaramyi_1.jpg) |
+| Epiplatys spilargyreius (*Epiplatys spilargyreius*) | Jan-Uwe Schmidt | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Epiplatys_spilargyreius_male_Malebo_Pool.jpg) |
+| Austrolebias nigripinnis (*Austrolebias nigripinnis*) | Catxx | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Austrolebias_nigripinnis992.jpg) |
+| Austrolebias adloffi (*Austrolebias adloffi*) | Luiz R. Malabarba | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Austrolebias_adloffi_male.jpg) |
+| Poropanchax normani (*Poropanchax normani*) | Cisamarc | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:Aplocheilichthys_normani_1.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
