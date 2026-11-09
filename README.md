@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 513 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 518 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -501,6 +501,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Betta edithae (*Betta edithae*) | Soulkeeper | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Betta_edithae_2.jpg) |
 | Betta tussyae (*Betta tussyae*) | DefenderRegina | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Betta_tussyae_(male)_2010-05-09.jpg) |
 | Parosphromenus harveyi (*Parosphromenus harveyi*) | Martin Fischer Parostoteles | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Parosphromenus_harveyi_2.jpg) |
+| Goerami (*Osphronemus goramy*) | Vassil | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Aquarium_tropical_de_Pierrefitte-Nestalas_03082018_Gourami_g%C3%A9ant_2.jpg) |
+| Osphronemus laticlavius (*Osphronemus laticlavius*) | Vassil | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Aquarium_tropical_de_Pierrefitte-Nestalas_03082018_Osphronemus_laticlavius_1.jpg) |
+| Channa asiatica (*Channa asiatica*) | Jokuyken15 | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Channa_asiatica_red.jpg) |
+| Rode slangkopvis (*Channa micropeltes*) | George Chernilevsky | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:Channa_micropeltes_2012_G1.jpg) |
+| Channa maculata (*Channa maculata*) | Stephen Matthews | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Channa_maculata_279979517.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
