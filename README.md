@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 488 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 493 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -476,6 +476,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Neoheterandria elegans (*Neoheterandria elegans*) | Livebearerguy | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Neoheterandria_elegans_(1).jpg) |
 | Priapichthys annectens (*Priapichthys annectens*) | Livebearerguy | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Priapichthys_annectens_(3)_(cropped).jpg) |
 | Cnesterodon decemmaculatus (*Cnesterodon decemmaculatus*) | CHUCAO | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Cnesterodon_decemmaculatus,_female_2.JPG) |
+| Poecilia butleri (*Poecilia butleri*) | Finn Wigström | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Poecilia_butleri_male.jpg) |
+| Poecilia vivipara (*Poecilia vivipara*) | Berbel-Filho WM et al. | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Poecilia_vivipara_(10.3897-zookeys.746.20960)_Figure_1.jpg) |
+| Poecilia chica (*Poecilia chica*) | Charliemouse69 | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Poecilia_Chica_Male_2.jpg) |
+| Poecilia latipunctata (*Poecilia latipunctata*) | kjellnilsson1 | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Poecilia_latipunctata.jpg) |
+| Limia tridens (*Limia tridens*) | Livebearerguy | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Limia_tridens_(4).jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
