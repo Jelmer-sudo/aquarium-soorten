@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 468 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 473 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -456,6 +456,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Cairnsichthys rhombosomoides (*Cairnsichthys rhombosomoides*) | Tim | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Cairnsichthys_rhombosomoides_163093181.jpg) |
 | Oryzias javanicus (*Oryzias javanicus*) | Ahsan A.H | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Oryzias_javanicus_3.jpg) |
 | Oryzias mekongensis (*Oryzias mekongensis*) | Andrewbogott | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Oryzias_mekongensis_male.png) |
+| Aphyosemion bivittatum (*Aphyosemion bivittatum*) | Mattus1990 | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Kaprozubka_dvojp%C3%A1sa_-_aphyosemion_bivittatum.jpg) |
+| Amiets vaandrager (*Fundulopanchax amieti*) | Andrew Bogott | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Fundulopanchax_amieti_Edea_Male.png) |
+| Nothobranchius korthausae (*Nothobranchius korthausae*) | Andrew Bogott | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Nothobranchius_korthausae_male.png) |
+| Nothobranchius eggersi (*Nothobranchius eggersi*) | Andrewbogott | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Nothobranchius_eggersi_Lasaba_TAN_19-24.png) |
+| Pachypanchax omalonotus (*Pachypanchax omalonotus*) | Tino Strauss | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Pachypanchax_omalonotus_01.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
