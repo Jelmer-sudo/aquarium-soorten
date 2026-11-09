@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 508 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 513 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -496,6 +496,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Characodon lateralis (*Characodon lateralis*) | Cedricguppy - Loury Cédric | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Characodon_lateralis_-_AquaPorteDoree_01.JPG) |
 | Xenoophorus captivus (*Xenoophorus captivus*) | Cedricguppy - Loury Cédric | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Xenoophorus_captivus_-_Aquaportedor%C3%A9e_01.JPG) |
 | Vieroogvis (*Anableps anableps*) | Quartl | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anableps_anableps_qtl1.jpg) |
+| Jenynsia multidentata (*Jenynsia multidentata*) | CHUCAO | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Jenynsia_multidentata_(1).JPG) |
+| Betta anabatoides (*Betta anabatoides*) | Justin Philbois | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Betta_anabatoides_456455993_(cropped).jpg) |
+| Betta edithae (*Betta edithae*) | Soulkeeper | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Betta_edithae_2.jpg) |
+| Betta tussyae (*Betta tussyae*) | DefenderRegina | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Betta_tussyae_(male)_2010-05-09.jpg) |
+| Parosphromenus harveyi (*Parosphromenus harveyi*) | Martin Fischer Parostoteles | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Parosphromenus_harveyi_2.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
