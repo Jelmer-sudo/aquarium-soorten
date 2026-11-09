@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 458 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 463 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -446,6 +446,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Leporinus striatus (*Leporinus striatus*) | Donald Davesne | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Brevidens_striatus_584282406.jpg) |
 | Gasteropelecus maculatus (*Gasteropelecus maculatus*) | NasserHalaweh | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Gasteropelecidae_Gasteropelecus_maculatus_1.2.jpg) |
 | Stiphodon percnopterygionus (*Stiphodon percnopterygionus*) | Laurent Pasteur | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Stiphodon_percnopterygionus.jpg) |
+| Rhinogobius rubromaculatus (*Rhinogobius rubromaculatus*) | Andrewbogott | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Rhinogobius_rubromaculatus_male.jpg) |
+| Oxyeleotris marmorata (*Oxyeleotris marmorata*) | Yung-Lun Lin | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Oxyeleotris_marmorata_-_Yung-Lun_Lin_-_586219137.jpeg) |
+| Hypseleotris cyprinoides (*Hypseleotris cyprinoides*) | Daiju Azuma | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hypseleotris_cyprinoides_by_Daiju_Azuma.jpg) |
+| Melanotaenia fluviatilis (*Melanotaenia fluviatilis*) | Bahudhara | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Murray_River_Rainbow_Fish.jpg) |
+| Melanotaenia parkinsoni (*Melanotaenia parkinsoni*) | Klaus Rudloff | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Melanotaenia_parkinsoni_2.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
