@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 453 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 458 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -441,6 +441,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Zwarte piranha (*Serrasalmus rhombeus*) | Ltshears | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:BlackPirahna2010.jpg) |
 | Zwarte pacu (*Colossoma macropomum*) | Brian Gratwicke | CC BY 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Black_pacu.jpg) |
 | Mylossoma duriventre (*Mylossoma duriventre*) | larsjuh | CC BY 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Mylossoma_duriventre_(7229293476).jpg) |
+| Mylossoma aureum (*Mylossoma aureum*) | Clinton & Charles Robertson | CC BY 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Mylossoma_aureum.jpg) |
+| Roodvinschijfzalm (*Myloplus rubripinnis*) | Vassil | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Myloplus_rubripinnis_Scheveningen_Sea_Life_15022016_2.jpg) |
+| Leporinus striatus (*Leporinus striatus*) | Donald Davesne | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Brevidens_striatus_584282406.jpg) |
+| Gasteropelecus maculatus (*Gasteropelecus maculatus*) | NasserHalaweh | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Gasteropelecidae_Gasteropelecus_maculatus_1.2.jpg) |
+| Stiphodon percnopterygionus (*Stiphodon percnopterygionus*) | Laurent Pasteur | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Stiphodon_percnopterygionus.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
