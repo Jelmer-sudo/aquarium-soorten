@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 537 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 542 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -525,6 +525,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Ringstaartsnoekcichlide (*Saxatilia saxatilis*) | Julien Renoult | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Crenicichla_saxatilis_5587593.jpg) |
 | Crenicichla alta (*Crenicichla alta*) | Jonathan (Jon) Armbruster | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Crenicichla_alta_GUY14-04_Amaila_black.jpg) |
 | Lugubria marmorata (*Lugubria marmorata*) | NasserHalaweh | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Cichlidae_Crenicichla_marmorata_1.jpg) |
+| Mesonauta insignis (*Mesonauta insignis*) | Klaus Rudloff | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Mesonauta_insignis.jpg) |
+| Heros notatus (*Heros notatus*) | Klaus Rudloff | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Heros_notatus.jpg) |
+| Pauwoogbaars (*Cichla ocellaris*) | Petruss | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Cichla_ocellaris.jpg) |
+| Cichla orinocensis (*Cichla orinocensis*) | JSutton93 | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Orinoco_peacock_bass_(Cichla_orinocensis).jpg) |
+| Acaronia nassa (*Acaronia nassa*) | Frank M Greco | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Acaronia_nassa.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
