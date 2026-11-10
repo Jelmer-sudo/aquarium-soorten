@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 523 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 528 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -511,6 +511,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Channa pleurophthalma (*Channa pleurophthalma*) | Atamari | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Channa pleurophthalma 0001.jpg) |
 | Channa lucius (*Channa lucius*) | Totti | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Channa lucius Gifu.jpg) |
 | Parachanna obscura (*Parachanna obscura*) | Cedricguppy - Loury Cédric | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Parachanna obscura - Aqua Porte Dorée 01.JPG) |
+| Nannacara bimaculata (*Nannacara bimaculata*) | Jonathan (Jon) Armbruster | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Nannacara_bimaculata_Armbruster.jpg) |
+| Acarichthys heckelii (*Acarichthys heckelii*) | Loury Cédric (Cedricguppy) | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Acarichthys_heckelii_-_subadulte_01.jpg) |
+| Geophagus proximus (*Geophagus proximus*) | Klaus Rudloff | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Geophagus_proximus_A.jpg) |
+| Surinaamse parelcichlide (*Geophagus surinamensis*) | Lerdsuwa | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Geophagus_surinamensis.jpg) |
+| Gymnogeophagus gymnogenys (*Gymnogeophagus gymnogenys*) | W.S.Serra | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Gymnogeophagus_gymnogenys1.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
