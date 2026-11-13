@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 609 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 613 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -597,6 +597,10 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Corydoras acutus (*Corydoras acutus*) | Frank M. Greco | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Corydoras acutus by Frank M. Greco.jpg) |
 | Brochis delphax (*Brochis delphax*) | Frank M. Greco | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Corydoras delphax.jpg) |
 | Osteogaster eques (*Osteogaster eques*) | Memelukas | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Corydoras eques.jpg) |
+| Hoplisoma loxozonum (*Hoplisoma loxozonum*) | Soulkeeper | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Corydoras loxozonus 1.jpg) |
+| Osteogaster melanotaenia (*Osteogaster melanotaenia*) | Karsten Schönherr | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Corydoras melanotaenia.JPG) |
+| Brochis multiradiatus (*Brochis multiradiatus*) | Ltshears | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hog-nosedBrochis2010.jpg) |
+| Corydoras semiaquilus (*Corydoras semiaquilus*) | Stan Shebs | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Corydoras semiaquilus 1.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
