@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 618 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 623 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -606,6 +606,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Synodontis njassae (*Synodontis njassae*) | Paweł Cieśla (Staszek Szybki J) | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Synodontis njassae 01 ssj 20050321.jpg) |
 | Phallichthys tico (*Phallichthys tico*) | Livebearerguy | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Phallichthys tico (1).jpg) |
 | Betta burdigala (*Betta burdigala*) | YIE BABEL | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Betta Burdigala.jpg) |
+| Betta persephone (*Betta persephone*) | Martin Fischer Parostoteles | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Betta persephone 1.jpg) |
+| Betta rubra (*Betta rubra*) | Vycro567 | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Polish 20240926 152819079.jpg) |
+| Channa marulioides (*Channa marulioides*) | BEDO (Thailand) | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Channa marulioides.jpg) |
+| Dario tigris (*Dario tigris*) | Nil NZ | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Female Dario tiris.jpg) |
+| Nandus nebulosus (*Nandus nebulosus*) | R.workoran | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bornean leafish.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
