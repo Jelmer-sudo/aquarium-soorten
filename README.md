@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 563 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 567 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -551,6 +551,10 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Dawkinsia rohani (*Dawkinsia rohani*) | Rahul Gautam | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:D rohani- Rahul Gautam.jpg) |
 | Epalzeorhynchos kalopterum (*Epalzeorhynchos kalopterum*) | Mirko Hartig | CC BY-SA 2.0 de | [Commons](https://commons.wikimedia.org/wiki/File:Epalzeorhynchos kalopterus.jpg) |
 | Garra flavatra (*Garra flavatra*) | Marcin Adrian | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Prachtalgenfresser (Panda Garra, Garra flavatra) by Marcin Adrian.jpg) |
+| Leptobarbus hoevenii (*Leptobarbus hoevenii*) | Zahar AZ | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Juvenile Leptobarbus hoevenii.jpg) |
+| Chinese zuigkarper (*Myxocyprinus asiaticus*) | 5snake5 | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Myxocyprinus asiaticus - Wimpelkarpfen.jpg) |
+| Opsarius pulchellus (*Opsarius pulchellus*) | Dwarren13 | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:OP2.jpg) |
+| Oreichthys crenuchoides (*Oreichthys crenuchoides*) | Beta Mahatvaraj | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Oreichthys crenuchoides (cropped).jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
