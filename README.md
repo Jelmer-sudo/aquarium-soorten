@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 654 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 656 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -642,6 +642,8 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Macrobrachium dayanum (*Macrobrachium dayanum*) | Rejoice Gassah | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Macrobrachium dayanum.jpg) |
 | Cambarellus puer (*Cambarellus puer*) | Brady Reed | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Cambarellus puer 13203074.jpg) |
 | Cambarellus lesliei (*Cambarellus lesliei*) | Chris Lukhaup/USDA-FS | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:Cambarellus lesliei.jpg) |
+| Procambarus enoplosternum (*Procambarus enoplosternum*) | Melunb | CC BY-SA 3.0 DE | [Commons](https://commons.wikimedia.org/wiki/File:Procambarus enoplosternum 10.jpg) |
+| Cherax gherardii (*Cherax gherardii*) | 5snake5 | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Cherax gherardii 'Blue Moon' male.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
