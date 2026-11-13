@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 582 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 586 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -570,6 +570,10 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Haplochromis aeneocolor (*Haplochromis aeneocolor*) | YFRag | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Haplochromis aeneocolor.jpg) |
 | Haplochromis nyererei (*Haplochromis nyererei*) | Oliver Selz | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Pundamilia nyererei.jpg) |
 | Nannacara adoketa (*Nannacara adoketa*) | Birger A | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Ivanacara adoketa5265.jpg) |
+| Julidochromis dickfeldi (*Julidochromis dickfeldi*) | regani (Wikimedia Commons) | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:Julidochromis dickfeldi.jpg) |
+| Julidochromis regani (*Julidochromis regani*) | Regani (Wikimedia Commons) | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:Julidochromis regani.jpg) |
+| Maylandia aurora (*Maylandia aurora*) | Klaus Rudloff | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Maylandia aurora.jpg) |
+| Maylandia callainos (*Maylandia callainos*) | Alexandra Tyers | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Maylandia callainos.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
