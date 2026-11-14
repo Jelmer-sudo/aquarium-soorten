@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 802 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 807 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -790,6 +790,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Vietnamese kardinaalvis (*Tanichthys micagemmae*) | Andrew Bogott | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Tanichthys_micagemmae_long-fin_male.JPG) |
 | Smaragddwergdanio (*Danio erythromicron*) | Cantospira | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:D.erythromicron_crop.jpg) |
 | Feegrade danio (*Danio feegradei*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Pethia cumingii (*Pethia cumingii*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Enteromius hulstaerti (*Enteromius hulstaerti*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Linke gourami (*Parosphromenus linkei*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Javaanse kamstaart (*Belontia hasselti*) | Wibowo Djatmiko (Wie146) | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Belont_hasselt_100523-1755_sap.JPG) |
+| Brown betta (*Betta brownorum*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
