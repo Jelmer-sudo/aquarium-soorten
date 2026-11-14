@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 777 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 782 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -765,6 +765,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Pelvicachromis roloffi (*Pelvicachromis roloffi*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
 | Wallaceochromis humilis (*Wallaceochromis humilis*) | Jonathan (Jon) Armbruster | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Pelvicachromis_humilis_AUM_59486.jpg) |
 | Laetacara dorsigera (*Laetacara dorsigera*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Brochis sodalis (*Brochis sodalis*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Gewone zuigmeerval (*Hypostomus plecostomus*) | Motu purkait | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Common_pleco(Hypostomus_plecostomus).jpg) |
+| Ancistrus ranunculus (*Ancistrus ranunculus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Rineloricaria fallax (*Rineloricaria fallax*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Pangio myersi (*Pangio myersi*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
