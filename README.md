@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 787 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 792 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -775,6 +775,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Goudvin-goodeide (*Skiffia bilineata*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
 | Zwartvin-goodeide (*Goodea atripinnis*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
 | Pauwoogaal (*Macrognathus siamensis*) | Florida Museum | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:UF-237526-Macrognathus-siamensis-IMG_4718_USE.jpg) |
+| Ansorge Afrikaanse zalm (*Neolebias ansorgii*) | George Albert Boulenger | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:Neolebias_ansorgii.jpg) |
+| Bronzalm (*Crenuchus spilurus*) | Clinton & Charles Robertson | CC BY 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Crenuchus_spilurus.jpg) |
+| Zwarte morfotetra (*Poecilocharax weitzmani*) | Clinton & Charles Robertson | CC BY 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Crenuchidae_Poeciliocharax_weitzmani.jpg) |
+| Roodvlek-copeina (*Copeina guttata*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Diepzalm (*Ctenobrycon spilurus*) | Scott Schiller | CC BY 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Ctenobrycon_spilurus_(Cal_Academy_of_Sciences).jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
