@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 666 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 671 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -654,6 +654,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Fossorochromis rostratus (*Fossorochromis rostratus*) | Cedricguppy | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Fossorochromis_rostratus_-_mâle_en_aquarium_01.jpg) |
 | Haplochromis sauvagei (*Haplochromis sauvagei*) | Haplochromis | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Haplochromis_sauvagei_male.jpg) |
 | Haplotaxodon microlepis (*Haplotaxodon microlepis*) | Klaus Rudloff | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Haplotaxodon_microlepis_A.jpg) |
+| Herichthys carpintis (*Herichthys carpintis*) | Theo Kruse | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Pearlscale_cichlid_(Herichthys_carpintis).jpg) |
+| Heros efasciatus (*Heros efasciatus*) | Rufus46 | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Rotruecken-Augenfleck-Buntbarsch_Heros_efasciatus_Tierpark_Hellabrunn-1.jpg) |
+| Lamprologus stappersi (*Lamprologus stappersi*) | onbekend | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:Lamprologusstappersimalemcl.jpg) |
+| Lepidiolamprologus cunningtoni (*Neolamprologus cunningtoni*) | Guérin Nicolas | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Lepidiolamprologus_cunningtoni_(Worclaw_zoo)-1.JPG) |
+| Lethrinops lethrinus (*Lethrinops lethrinus*) | Alexandra Tyers | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Lethrinops_lethrinus_2.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
