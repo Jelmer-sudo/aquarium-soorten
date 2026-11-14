@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 711 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 716 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -699,6 +699,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Betta simplex (*Betta simplex*) | Andrewbogott | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Betta_simplex.jpg) |
 | Parosphromenus paludicola (*Parosphromenus paludicola*) | BEDO (Thailand) | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Parosphronemus_paludicola.jpg) |
 | Indische glasmeerval (*Kryptopterus bicirrhis*) | JC7001 | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Glass_Catfish_(Kryptopterus_bicirrhis)_(5520681894).jpg) |
+| Betta pi (*Betta pi*) | BEDO (Thailand) | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Betta_pi.jpg) |
+| Garcialebias viarius (*Garcialebias viarius*) | W.S.Serra | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Austrolebias_viarius.jpg) |
+| Callopanchax occidentalis (*Callopanchax occidentalis*) | Andrew Bogott | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Callopanchax_occidentalis_Teme_Yella_SL89_DRCH,_Male.png) |
+| Papiliolebias bitteri (*Papiliolebias bitteri*) | Facundo Bozza | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Papiliolebias_bitteri_chaco_salteño.jpg) |
+| Poecilia salvatoris (*Poecilia salvatoris*) | Dnoerholm | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:PoeciliaSalvatoris.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
