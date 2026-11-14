@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 812 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 817 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -800,6 +800,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Burton cichlide (*Astatotilapia burtoni*) | Russell D. Fernald en Sabrina S. Burmeister | CC BY 2.5 | [Commons](https://commons.wikimedia.org/wiki/File:Astatotilapia_burtoni.png) |
 | Clownzuigmeerval (*Panaqolus maccus*) | Jarne Colman | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Panaqolus_maccus.jpg) |
 | Galaxy-zuigmeerval (*Leporacanthicus galaxias*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Steurmeerval (*Hemiodontichthys acipenserinus*) | Carl H. Eigenmann | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:FMIB_52363_Hemiodontichthys_acipenserinus_(KJner).jpeg) |
+| Brichard synodontis (*Synodontis brichardi*) | Frank M. Greco | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Synodontis_brichardi.jpg) |
+| Vlagstaart-pantserwels (*Dianema urostriatum*) | Haplochromis | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:Dianema_urostriata.JPG) |
+| Netpantserwels (*Brochis reticulata*) | karsten_s | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Corydoras_reticulatus_247526321.jpg) |
+| Corydoras axelrodi (*Hoplisoma axelrodi*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
