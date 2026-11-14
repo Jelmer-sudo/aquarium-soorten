@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 716 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 721 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -704,6 +704,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Callopanchax occidentalis (*Callopanchax occidentalis*) | Andrew Bogott | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Callopanchax_occidentalis_Teme_Yella_SL89_DRCH,_Male.png) |
 | Papiliolebias bitteri (*Papiliolebias bitteri*) | Facundo Bozza | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Papiliolebias_bitteri_chaco_salteño.jpg) |
 | Poecilia salvatoris (*Poecilia salvatoris*) | Dnoerholm | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:PoeciliaSalvatoris.jpg) |
+| Melanotaenia eachamensis (*Melanotaenia eachamensis*) | Martin F. Gomon | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:A_Lake_Eacham_Rainbowfish,_Melanotaenia_eachamensis,_in_an_aquarium.jpg) |
+| Bedotia marojejy (*Bedotia marojejy*) | A. Saunders | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bemar_m0.jpg) |
+| Polypterus weeksii (*Polypterus weeksii*) | Stan Shebs | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Polypterus_weeksii_2.jpg) |
+| Atya gabonensis (*Atya gabonensis*) | Citron | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Atya_gabonensis.JPG) |
+| Neocaridina palmata (*Neocaridina palmata*) | DirkBlankenhaus | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Neocaridina-palmata.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
