@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 701 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 706 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -689,6 +689,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Parotocinclus jumbo (*Parotocinclus jumbo*) | Haplochromis | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Parotocinclus_jumbo_2.jpg) |
 | Peckoltia compta (*Peckoltia compta*) | Christian Dresel | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Peckoltia_compta_L134.jpg) |
 | Sturisomatichthys aureus (*Sturisomatichthys aureus*) | NasserHalaweh | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Loricariidae_Sturisoma_aureum_1.2.jpg) |
+| Gestreepte doornmeerval (*Platydoras costatus*) | Piotr Kuczynski | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Platydoras_costatus_1_(Piotr_Kuczynski).jpg) |
+| Synodontis notatus (*Synodontis notatus*) | Frank M. Greco | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Synodontis_notatus.jpg) |
+| Badis khwae (*Badis khwae*) | BEDO (Thailand) | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Badis_khwae_(Kullander_&_Britze,_2002).jpg) |
+| Badis ruber (*Badis ruber*) | BEDO (Thailand) | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Badis_ruber_(Schreitmüller,_1923).jpg) |
+| Badis siamensis (*Badis siamensis*) | BEDO (Thailand) | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Badis_siamensis_(Klausewitz,_1957).jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
