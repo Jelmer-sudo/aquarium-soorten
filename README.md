@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 696 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 701 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -684,6 +684,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Thayeria obliqua (*Thayeria obliqua*) | Klaus Rudloff | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Thayeria_obliqua.jpg) |
 | Chaetostoma milesi (*Chaetostoma milesi*) | Frank Alvarez | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Chaetostoma_milesi.JPG) |
 | Brochis imitator (*Brochis imitator*) | Soulkeeper | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Corydoras_imitator_5.jpg) |
+| Hemiancistrus subviridis (*Hemiancistrus subviridis*) | 5snake5 | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Hemiancistrus_subviridis_-_Gelber_Phantomwels.jpg) |
+| Panaque nigrolineatus (*Panaque nigrolineatus*) | EvanBaldonado | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Royal_pleco_(Panaque_nigrolineatus)_at_the_California_Academy_of_Sciences.jpg) |
+| Parotocinclus jumbo (*Parotocinclus jumbo*) | Haplochromis | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Parotocinclus_jumbo_2.jpg) |
+| Peckoltia compta (*Peckoltia compta*) | Christian Dresel | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Peckoltia_compta_L134.jpg) |
+| Sturisomatichthys aureus (*Sturisomatichthys aureus*) | NasserHalaweh | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Loricariidae_Sturisoma_aureum_1.2.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
