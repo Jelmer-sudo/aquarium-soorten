@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 767 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 772 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -755,6 +755,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Datnioides pulcher (*Datnioides pulcher*) | OpenCage | CC BY-SA 2.5 | [Commons](https://commons.wikimedia.org/wiki/File:Datnioides_pulcher_by_OpenCage.jpg) |
 | Lepidocephalichthys thermalis (*Lepidocephalichthys thermalis*) | AravindManoj | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Thermalis.jpg) |
 | Polypterus palmas (*Polypterus palmas*) | John P. Friel Ph.D. | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Polypterus_palmas_53146355.jpg) |
+| Gouden potloodzalm (*Nannostomus beckfordi*) | SelEle-MS | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Nannostomus-beckfordi.jpg) |
+| Adolfo pantserwels (*Hoplisoma adolfoi*) | Corydoras-adolfoi-alone | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Corydoras-adolfoi-alone.jpg) |
+| Kleine pantserwels (*Gastrodermus nanus*) | karsten_s | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Corydoras_nanus_32281957.jpg) |
+| Dwergbarbeel (*Pethia phutunio*) | Francis Day | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:Barbus_photunio_Day_145.jpg) |
+| Clownbarbeel (*Barbodes everetti*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
