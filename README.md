@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 738 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 739 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -726,6 +726,7 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Melanotaenia lakamora (*Melanotaenia lakamora*) | Dirk Godlinski | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Melanotaenia_lakamora_male.jpg) |
 | Melanotaenia sexlineata (*Melanotaenia sexlineata*) | Dirk Godlinski | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Melanotaenia_sexlineata_Kiunga.jpg) |
 | Oryzias nigrimas (*Oryzias nigrimas*) | OpenCage | CC BY-SA 2.5 | [Commons](https://commons.wikimedia.org/wiki/File:Oryzias_nigrimas_by_OpenCage.jpg) |
+| Hemigrammus barrigonae (*Hemigrammus barrigonae*) | D. Bork | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hemigrammus_barrigonae_(31499).png) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
