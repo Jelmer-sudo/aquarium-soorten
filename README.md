@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 656 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 661 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -644,6 +644,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Cambarellus lesliei (*Cambarellus lesliei*) | Chris Lukhaup/USDA-FS | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:Cambarellus lesliei.jpg) |
 | Procambarus enoplosternum (*Procambarus enoplosternum*) | Melunb | CC BY-SA 3.0 DE | [Commons](https://commons.wikimedia.org/wiki/File:Procambarus enoplosternum 10.jpg) |
 | Cherax gherardii (*Cherax gherardii*) | 5snake5 | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Cherax gherardii 'Blue Moon' male.jpg) |
+| Aulonocara maylandi (*Aulonocara maylandi*) | Maha Dinesh | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Sulphurhead_cichlid.JPG) |
+| Aulonocara nyassae (*Aulonocara nyassae*) | Klaus Rudloff | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Aulonocara_nyassae_A.jpg) |
+| Apistogramma cruzi (*Apistogramma cruzi*) | Mazapura | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Apistogramma_cruzi_(female).JPG) |
+| Apistogramma erythrura (*Apistogramma erythrura*) | Britzke | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Apistogramma_erythrura.jpg) |
+| Amatitlania siquia (*Amatitlania siquia*) | Haplochromis | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Amatitlania_siquia.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
