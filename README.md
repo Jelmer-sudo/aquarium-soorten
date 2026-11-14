@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 681 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 686 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -669,6 +669,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Telmatochromis vittatus (*Telmatochromis vittatus*) | Eretmodus | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:Telmato-vittat-congo0.1_(1).jpg) |
 | Tylochromis lateralis (*Tylochromis lateralis*) | John P. Friel | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Tylochromis_lateralis_53146450.jpg) |
 | Javaanse barbeel (*Barbonymus gonionotus*) | Yung-Lun Lin | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Barbonymus_gonionotus_-_Yung-Lun_Lin_-_586218900.jpeg) |
+| Danio aesculapii (*Danio aesculapii*) | Andrewbogott | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Danio_aesculapii.png) |
+| Devario maetaengensis (*Devario maetaengensis*) | Lerdsuwa | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Devario_maetaengensis.jpg) |
+| Puntius chola (*Puntius chola*) | AravindManoj | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Puntiuschola.png) |
+| Rasbora argyrotaenia (*Rasbora argyrotaenia*) | Abu Hamas | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Rasbora_argyrotaenia_52466429.jpg) |
+| Rasbora tornieri (*Rasbora tornieri*) | Ahsan al hidayat | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Rasboratornieri.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
