@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 731 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 734 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -719,6 +719,9 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Aphyosemion cameronense (*Aphyosemion cameronense*) | Jokuyken15 | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Aphyosemion_cameronense.jpg) |
 | Aphyosemion splendopleure (*Aphyosemion splendopleure*) | Andrew Bogott | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Aphyosemion_splendopleure_'Tiko_green'_Male.png) |
 | Neofundulus paraguayensis (*Neofundulus paraguayensis*) | Guyvir | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:Neofundulus_paraguayensis_Ogun_Marcelino_AAK_12-03.jpg) |
+| Pachypanchax patriciae (*Pachypanchax patriciae*) | KillisBS | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Pachypanchax_patriciae_blaue_Morphe.jpg) |
+| Pachypanchax sparksorum (*Pachypanchax sparksorum*) | KillisBS | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:F6t2932p6696n9_UbXgPYyo.jpg) |
+| Glossolepis maculosa (*Glossolepis maculosa*) | Dirk Godlinski | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Glossolepis_maculosus_m_Aquarium_DG.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
