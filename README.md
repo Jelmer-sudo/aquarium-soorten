@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 845 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 850 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -833,6 +833,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Mesonauta festivus (*Mesonauta festivus*) | Citron | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Mesonauta_festivus.jpg) |
 | Archocentrus centrarchus (*Archocentrus centrarchus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
 | Amphilophus labiatus (*Amphilophus labiatus*) | Abu Hamas | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Amphilophus_labiatus_569829022.jpg) |
+| Hypsophrys nicaraguensis (*Hypsophrys nicaraguensis*) | NasserHalaweh | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Cichlidae_Hypsophrys_nicaraguensis_1.jpg) |
+| Pseudotropheus saulosi (*Chindongo saulosi*) | Trigger at Dutch Wikipedia | CC BY 1.0 | [Commons](https://commons.wikimedia.org/wiki/File:Pseudotropheus_Saulosi_V_bekje_vol.jpg) |
+| Labeotropheus trewavasae (*Labeotropheus trewavasae*) | Victor Sounds | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Labeotropheus_trewavasae.jpg) |
+| Aulonocara jacobfreibergi (*Aulonocara jacobfreibergi*) | Lerdsuwa | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Aulonocara_jacobfreibergi_eureka_red.jpg) |
+| Neolamprologus leleupi (*Neolamprologus leleupi*) | HblairH | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Large_Neolamprologus_leleupi.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
