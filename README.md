@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 827 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 832 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -815,6 +815,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Gestippelde bijlzalm (*Thoracocharax stellatus*) | NasserHalaweh | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Gasteropelecidae_Thoracocharax_stellatus_1.jpg) |
 | Gasteropelecus levis (*Gasteropelecus levis*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
 | Nannostomus unifasciatus (*Nannostomus unifasciatus*) | Lochrian | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Nannostomus_unifasciatus.jpg) |
+| Roodbuikpacu (*Piaractus brachypomus*) | Raymond Ellis | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Piaractus_brachypomus_Zoologischer_Garten_Berlin.JPG) |
+| Corydoras caudimaculatus (*Hoplisoma caudimaculatum*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Corydoras ornatus (*Brochis ornatus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Corydoras gossei (*Hoplisoma gossei*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Desmopuntius johorensis (*Desmopuntius johorensis*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
