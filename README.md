@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 860 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 865 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -848,6 +848,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Ancistrus temminckii (*Ancistrus temminckii*) | Uploader (naam niet vermeld) | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Ancistrus_temminckii.jpg) |
 | Rineloricaria lanceolata (*Rineloricaria lanceolata*) | 5snake5 | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Rineloricaria_lanceolata_02.jpg) |
 | Acanthodoras spinosissimus (*Acanthodoras spinosissimus*) | Clinton & Charles Robertson | CC BY 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Acanthodoras_spinosissiums.jpg) |
+| Melanotaenia australis (*Melanotaenia australis*) | laurent MARSOL - Aussie Oc | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:300_Melanotaenia_australis_Western_rainbowfish_Mitchell_River_NP_VIII-2013.jpg) |
+| Melanotaenia goldiei (*Melanotaenia goldiei*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Melanotaenia duboulayi (*Melanotaenia duboulayi*) | at | CC BY 2.5 | [Commons](https://commons.wikimedia.org/wiki/File:M_duboulayi.jpg) |
+| Pseudomugil luminatus (*Pseudomugil luminatus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Pseudomugil connieae (*Pseudomugil connieae*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
