@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 855 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 860 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -843,6 +843,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Pangio anguillaris (*Pangio anguillaris*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
 | Yasuhikotakia lecontei (*Yasuhikotakia lecontei*) | Lerdsuwa | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Yasuhikotakia_lecontei.jpg) |
 | Synodontis decorus (*Synodontis decorus*) | John P. Friel Ph.D. | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Synodontis_decorus_53146686.jpg) |
+| Synodontis flavitaeniatus (*Synodontis flavitaeniatus*) | iNaturalist.org (John P. Friel Ph.D.) | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Synodontis_flavitaeniatus_Boulenger,_1919_2445028568.jpg) |
+| Synodontis ocellifer (*Synodontis ocellifer*) | Tameff | CC BY-SA 2.5 | [Commons](https://commons.wikimedia.org/wiki/File:Synodontis_ocellifer-aquarium.jpg) |
+| Ancistrus temminckii (*Ancistrus temminckii*) | Uploader (naam niet vermeld) | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Ancistrus_temminckii.jpg) |
+| Rineloricaria lanceolata (*Rineloricaria lanceolata*) | 5snake5 | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Rineloricaria_lanceolata_02.jpg) |
+| Acanthodoras spinosissimus (*Acanthodoras spinosissimus*) | Clinton & Charles Robertson | CC BY 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Acanthodoras_spinosissiums.jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
