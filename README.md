@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 870 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 875 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -858,6 +858,11 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Epiplatys dageti (*Epiplatys dageti*) | Mattus1990 | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Kabrozubka_dagetova_-_epiplatys_dageti.jpg) |
 | Pachypanchax playfairii (*Pachypanchax playfairii*) | Linro1 | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Killifish_playfairii_Gouzon_FD88CA7C-11FD-4210-AA0A-92F68842F078.jpg) |
 | Aplocheilus blockii (*Aplocheilus blockii*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Xiphophorus xiphidium (*Xiphophorus xiphidium*) | Livebearerguy | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Xiphophorus_xiphidium_(1).jpg) |
+| Monterreyplaty (*Xiphophorus couchianus*) | Marfrubio | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:016776F000199W000002.jpg) |
+| Girardinus metallicus (*Girardinus metallicus*) | Livebearerguy | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Girardinus_metallicus_(metal_girardinus).jpg) |
+| Belonesox belizanus (*Belonesox belizanus*) | Nick Tobler (Cowturtle) | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Belonesox_belizanus_457725894.jpg) |
+| Ctenopoma kingsleyae (*Ctenopoma kingsleyae*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
