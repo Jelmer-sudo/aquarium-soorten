@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 1028 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 1192 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -819,7 +819,7 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Corydoras caudimaculatus (*Hoplisoma caudimaculatum*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
 | Corydoras ornatus (*Brochis ornatus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
 | Corydoras gossei (*Hoplisoma gossei*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
-| Desmopuntius johorensis (*Desmopuntius johorensis*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Desmopuntius johorensis (*Desmopuntius johorensis*) | Rupert A. Collins | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Puntius_johorensis.jpg) |
 | Devario regina (*Devario regina*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
 | Rasbora jacobsoni (*Rasbora jacobsoni*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
 | Rasbora daniconius (*Rasbora daniconius*) | Christopher | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Rasbora_daniconius_68015786.jpg) |
@@ -1011,11 +1011,175 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Caridina weberi (*Caridina weberi*) | Laura FLAMME | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Caridina weberi (MNHN-IU-2015-1755).jpeg) |
 | Caridina serrata (*Caridina serrata*) | Chen Q-H, Chen W-J, Zheng X-Z, Guo Z-L ( | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Caridina serrata (10.3897-zookeys.923.48593) Figure 3 (cropped).jpg) |
 | Caridina lanceifrons (*Caridina lanceifrons*) | Tu et al. (2021) | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Caridina lanceifrons (10.3897-BDJ.9.e70289) Figure 7b.jpg) |
+| Labeo chrysophekadion (*Labeo chrysophekadion*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Luciosoma setigerum (*Luciosoma setigerum*) | Fanli Marine | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Luciosoma_setigerum.jpg) |
+| Astatoreochromis alluaudi (*Astatoreochromis alluaudi*) | MidgleyDJ | CC BY-SA 2.5 | [Commons](https://commons.wikimedia.org/wiki/File:Astatoreochromis_alluaudi.jpg) |
+| Chromidotilapia guntheri (*Chromidotilapia guntheri*) | Cedricguppy - Loury Cédric | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Chromidotilapia_guntheri_-_AquaPorteDoree_02.JPG) |
+| Cyathopharynx furcifer (*Cyathopharynx furcifer*) | Klaus Rudloff | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Cyathopharynx_furcifer_A.jpg) |
 | Atya innocous (*Atya innocous*) | Iconographia Zoologica, Bijzondere Collecties Universiteit van Amsterdam | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:Cancer innocous - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 097 06 0005.tif) |
 | Atya scabra (*Atya scabra*) | [Photo: Alves, DFR] Barros-Alves Samara | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Atya scabra (10.1590-2358-2936e2021009) Figure 1.jpg) |
 | Atyopsis spinipes (*Atyopsis spinipes*) | Laura FLAMME | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Atyopsis spinipes (MNHN-IU-2014-20693).jpeg) |
 | Caridina caerulea (*Caridina caerulea*) | Klotz W, von Rintelen T, Wowor D, Lukhau | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Caridina caerulea (10.3897-zookeys.1009.54303) Figure 2 (cropped-C).jpg) |
 | Caridina ensifera (*Caridina ensifera*) | Klotz W, von Rintelen T, Wowor D, Lukhau | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Caridina ensifera (10.3897-zookeys.1009.54303) Figure 2 (cropped-D).jpg) |
+| Cherax pulcher (*Cherax pulcher*) | Christian Lukhaup | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Cherax pulcher 43003 (1).jpg) |
+| Procambarus milleri (*Procambarus milleri*) | Adam G. Stern | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Procambarus milleri on a aquatic plant Adam G. Stern.jpg) |
+| Cherax snowden (*Cherax snowden*) | Christian Lukhaup, Jörn Panteleit, Anne | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Cherax snowden habitus (B) male Indonesia.jpg) |
+| Cherax boesemani (*Cherax boesemani*) | Jiel Beaumadier | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Jielbeaumadier ecrevisse 1 vda 2011.jpeg) |
+| Polycentropsis abbreviata (*Polycentropsis abbreviata*) | George Albert Boulenger | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:Polycentropsis abbreviata 3.jpg) |
+| Haplochromis thereuterion (*Haplochromis thereuterion*) | User:Haplochromis | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Haplochromis_thereuterion.jpg) |
+| Herichthys cyanoguttatus (*Herichthys cyanoguttatus*) | Fried Noodls | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Mojarra_norteña_juvenil_(Herichthys_cyanoguttatus)_en_el_Río_Santa_Catarina.jpg) |
+| Nimbochromis livingstonii (*Nimbochromis livingstonii*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Nimbochromis polystigma (*Nimbochromis polystigma*) | NasserHalaweh | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Cichlidae_Nimbochromis_polystigma_1.jpg) |
+| Acanthicus adonis (*Acanthicus adonis*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Pollimyrus isidori (*Pollimyrus isidori*) | Boulenger, George Albert; Loat, L. | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:Pollimyrus isidori.jpg) |
+| Phractolaemus ansorgii (*Phractolaemus ansorgii*) | George Albert Boulenger | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:Phractolaemus ansorgii.jpg) |
+| Petrocephalus bovei (*Petrocephalus bovei*) | George Albert Boulenger | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:Petrocephalus bovei.jpg) |
+| Parambassis wolffii (*Parambassis wolffii*) | Cedricguppy - Loury Cédric | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Ambassis wolffii - squelette - mnhn.JPG) |
+| Yasuhikotakia eos (*Yasuhikotakia eos*) | Lerdsuwa | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Yasuhikotakia eos.jpg) |
+| Serpenticobitis cingulata (*Serpenticobitis cingulata*) | Bogyman | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Serpenticobitis cingulata.jpg) |
+| Schistura beavani (*Schistura beavani*) | Francis Day | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:Nemacheilus beavani Day 156.jpg) |
+| Lepidocephalichthys berdmorei (*Lepidocephalichthys berdmorei*) | Ratmuangkhwang, Sahat | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Lepidocephalichthys berdmorei.jpg) |
+| Beaufortia leveretti (*Beaufortia leveretti*) | Leo-nie-weh-oh | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:Beaufortia leveretti.JPG) |
+| Ilyodon whitei (*Ilyodon whitei*) | Susleriel | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Popoyote.jpg) |
+| Ctenopoma weeksii (*Ctenopoma weeksii*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Channa stewartii (*Channa stewartii*) | George Henry Ford (1809–1876) | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:Channa stewartii.jpg) |
+| Betta stigmosa (*Betta stigmosa*) | AVNJ | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Betta stigmosa 251817350.jpg) |
+| Steatocranus tinanti (*Steatocranus tinanti*) | Cedricguppy - Loury Cédric | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Steatocranus tinanti - Aqua Porte Dorée 07.JPG) |
+| Ageneiosus inermis (*Ageneiosus inermis*) | w_endo | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Ageneiosus_inermis_205143109.jpg) |
+| Aguarunichthys torosus (*Aguarunichthys torosus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Asterophysus batrachus (*Asterophysus batrachus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Bagrichthys macracanthus (*Bagrichthys macracanthus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Cetopsis coecutiens (*Cetopsis coecutiens*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Chaca bankanensis (*Chaca bankanensis*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Corydoras geoffroy (*Corydoras geoffroy*) | karsten_s | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Corydoras_geoffroy_32551224.jpg) |
+| Mystus leucophasis (*Mystus leucophasis*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Pareutropius buffei (*Pareutropius buffei*) | Bloodshot20 | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Pareutropius_buffei.png) |
+| Peckoltia vittata (*Peckoltia vittata*) | Gabriel Lelis Togni | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Peckoltia_vittata.jpg) |
+| Platystomatichthys sturio (*Platystomatichthys sturio*) | Carl H. Eigenmann | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:FMIB_52266_Platystomatichthys_sturio_Kner,_One_of_the_Giant_Catfishes.jpeg) |
+| Pseudorinelepis genibarbis (*Pseudorinelepis genibarbis*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Synodontis schoutedeni (*Synodontis schoutedeni*) | iNaturalist.org (John P. Friel Ph.D.) | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Synodontis_schoutedeni_David,_1936_3044607443.jpg) |
+| Betta uberis (*Betta uberis*) | CBG Photography Group, Centre for Biodiversity Genomics | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Betta_uberis.jpg) |
+| Pristolepis fasciata (*Pristolepis fasciata*) | Dan Koehl | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:DKoehl_Pristolepis_fasciata_2022-12-04.jpg) |
+| Simpsonichthys boitonei (*Simpsonichthys boitonei*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Valencia hispanica (*Valencia hispanica*) | Joanbanjo | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Samaruc_a_l'aula_de_la_natura,_parc_de_Marxalenes,_València.JPG) |
+| Barbucca diabolica (*Barbucca diabolica*) | AVNJ | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Fire-eyed_Loach_(Barbucca_diabolica).jpg) |
+| Botia rostrata (*Botia rostrata*) | Hamid Badar Osmany | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Botia_rostrata_2.jpg) |
+| Gastromyzon ctenocephalus (*Gastromyzon ctenocephalus*) | HelinaKa | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Helmi-imunuoliaiset_-_Gastromyzon_ctenocephalus.jpg) |
+| Leptobotia elongata (*Leptobotia elongata*) | 黄花菜 | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Leptobotia_elongata.jpg) |
+| Schistura balteata (*Schistura balteata*) | Gerhard Ott | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Schistura_balteata.jpg) |
+| Syncrossus berdmorei (*Syncrossus berdmorei*) | Lerdsuwa | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Syncrossus_berdmorei.jpg) |
+| Syncrossus helodes (*Syncrossus helodes*) | Lerdsuwa | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Syncrossus_helodes.jpg) |
+| Vaillantella maassi (*Vaillantella maassi*) | Rukai95 | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Vaillantella_maassi.jpg) |
+| Glossamia aprion (*Glossamia aprion*) | coenobita | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Glossamia_aprion_14583423.jpg) |
+| Mogurnda mogurnda (*Mogurnda mogurnda*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Pao palembangensis (*Pao palembangensis*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Tetraodon miurus (*Tetraodon miurus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Portalegre-cichlide (*Cichlasoma portalegrense*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Copadichromis chrysonotus (*Copadichromis chrysonotus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Schelpenbewonende cichlide (*Lamprologus callipterus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Lobochilotes labiatus (*Lobochilotes labiata*) | George Albert Boulenger | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:Lobochilotes_labiatus.jpg) |
+| Neolamprologus caudopunctatus (*Neolamprologus caudopunctatus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Placidochromis johnstoni (*Placidochromis johnstoni*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Thysochromis ansorgii (*Thysochromis ansorgii*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Trematocranus placodon (*Trematocranus placodon*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Barilius barna (*Opsarius barna*) | bakalial | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Barilius_barna.jpg) |
+| Cyclocheilichthys apogon (*Cyclocheilichthys apogon*) | Sahat Ratmunngkhwang | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:4.1.2_Cyclocheilichthys_apogon_78.0mmSL.jpg) |
+| Haludaria melanampyx (*Haludaria melanampyx*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Osteochilus vittatus (*Osteochilus vittatus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Rasbora paviana (*Rasbora paviana*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Rohtee ogilbii (*Rohtee ogilbii*) | Beta Mahatvaraj | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Rohtee_ogilbii.jpg) |
+| Desmopuntius foerschi (*Desmopuntius foerschi*) | Rupert A. Collins | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Puntius_foerschi.jpg) |
+| Acanthocobitis botia (*Acanthocobitis botia*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Botia lohachata (*Botia lohachata*) | Hamid Badar Osmany | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Botia_lohachata_2.jpg) |
+| Syncrossus beauforti (*Syncrossus beauforti*) | Lerdsuwa | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Syncrossus_beauforti.jpg) |
+| Glandulocauda melanopleura (*Glandulocauda melanopleura*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Moenkhausia hemigrammoides (*Moenkhausia hemigrammoides*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Prionobrama paraguayensis (*Prionobrama paraguayensis*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Batasio tengana (*Batasio tengana*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Corydoras davidsandsi (*Hoplisoma davidsandsi*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Corydoras zygatus (*Osteogaster zygata*) | Soulkeeper | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Corydoras_zygatus_3.jpg) |
+| Dianema longibarbis (*Dianema longibarbis*) | Ckf6412 | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Dianema_longibarbis_(clipped).png) |
+| Hara jerdoni (*Hara jerdoni*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Hoplosternum littorale (*Hoplosternum littorale*) | geosesarma | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hoplosternum_littorale_224014570.jpg) |
+| Lasiancistrus schomburgkii (*Lasiancistrus schomburgkii*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Otocinclus cocama (*Otocinclus cocama*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Acanthodoras cataphractus (*Acanthodoras cataphractus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Liosomadoras oncinus (*Liosomadoras oncinus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Microsynodontis batesii (*Microsynodontis batesii*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Pimelodella gracilis (*Pimelodella gracilis*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Synodontis alberti (*Synodontis alberti*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Trachelyopterus galeatus (*Trachelyopterus galeatus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Badis assamensis (*Badis assamensis*) | দিব্য দত্ত | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Badis_assamensis.jpg) |
+| Betta compuncta (*Betta compuncta*) | Barcode of Life Data System (BOLD), record DSMIS183-11 | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Betta_compuncta.jpg) |
+| Betta fusca (*Betta fusca*) | R.J. Blach | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Betta_fusca_Paarung_1.jpg) |
+| Betta livida (*Betta livida*) | Zakqary Roy | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Betta_livida_250688684.jpg) |
+| Betta tomi (*Betta tomi*) | Zakqary Roy | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Betta_tomi_251537072.jpg) |
+| Hongkong-paradijsvis (*Macropodus hongkongensis*) | Chong Fat | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:HK_Macropodus_hongkongensis.JPG) |
+| Parosphromenus alfredi (*Parosphromenus alfredi*) | Zakqary Roy | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Parosphromenus_alfredi_251537111.jpg) |
+| Allotoca dugesii (*Allotoca dugesii*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Nothobranchius melanospilus (*Nothobranchius melanospilus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Nothobranchius orthonotus (*Nothobranchius orthonotus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Marcusenius macrolepidotus (*Marcusenius macrolepidotus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Macrognathus circumcinctus (*Macrognathus circumcinctus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Tetraodon schoutedeni (*Tetraodon schoutedeni*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Amblypharyngodon mola (*Amblypharyngodon mola*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Enteromius foutensis (*Enteromius foutensis*) | Jonathan (Jon) Armbruster | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Barbus_foutensis_AUM_59567.jpg) |
+| Enteromius trispilos (*Enteromius trispilos*) | Jonathan (Jon) Armbruster | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Barbus_trispilos_AUM59626_66.2L_edit.jpg) |
+| Pethia erythromycter (*Pethia erythromycter*) | Greco, Frank M. | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Pethia_erythromycter.jpg) |
+| Puntius dorsalis (*Puntius dorsalis*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Securicula gora (*Securicula gora*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Systomus rubripinnis (*Systomus rubripinnis*) | S. Kulabtong | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Systomus_rubripinnis.jpg) |
+| Aphyosemion primigenium (*Aphyosemion primigenium*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Epiplatys bifasciatus (*Epiplatys bifasciatus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Fundulopanchax spoorenbergi (*Fundulopanchax spoorenbergi*) | Tommy Kronkvist | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Fundulopanchax_spoorenbergi,_pair.jpg) |
+| Leptolebias aureoguttatus (*Leptolebias aureoguttatus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Nothobranchius taeniopygus (*Nothobranchius taeniopygus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Simpsonichthys santanae (*Simpsonichthys santanae*) | Andrew Bogott | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Simpsonichthys_santanae_male.png) |
+| Scaturiginichthys vermeilipinnis (*Scaturiginichthys vermeilipinnis*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Bario steindachneri (*Bario steindachneri*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Bryconamericus stramineus (*Bryconamericus stramineus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Hemigrammus analis (*Hemigrammus analis*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Hemigrammus micropterus (*Hemigrammus micropterus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Hyphessobrycon diancistrus (*Hyphessobrycon diancistrus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Hyphessobrycon hasemani (*Hyphessobrycon hasemani*) | Gabriel Lelis Togni | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hyphessobrycon_hasemani_(46321).jpg) |
+| Hyphessobrycon itaparicensis (*Hyphessobrycon itaparicensis*) | Angela M. Zanata et. al. | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hyphessobrycon_itaparicensis_(UFRN_207).jpg) |
+| Hyphessobrycon moniliger (*Hyphessobrycon moniliger*) | Ota, Renata Rúbia; Deprá, Gabriel de Carvalho; Graça, Weferson Júnio da; Pavanelli, Carla Simone | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hyphessobrycon_moniliger_(3678411_female).png) |
+| Hyphessobrycon sovichthys (*Hyphessobrycon sovichthys*) | Carlos Garcia-Alzate, César Román-Valencia, Donald Taphorn | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hyphessobrycon_sovichthys_(MBUCV–V_29776).png) |
+| Hyphessobrycon stegemanni (*Hyphessobrycon stegemanni*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Moenkhausia grandisquamis (*Moenkhausia grandisquamis*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Moenkhausia lepidura (*Moenkhausia lepidura*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Moenkhausia nigromarginata (*Moenkhausia nigromarginata*) | Pastana, Murilo N. L.; Dagosta, Fernando C. P. | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Moenkhausia_nigromarginata_(4639119).png) |
+| Paragoniates alburnus (*Paragoniates alburnus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Prochilodus nigricans (*Prochilodus nigricans*) | Sidnei Dantas | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Prochilodus_nigricans_92359035.jpg) |
+| Pseudocorynopoma doriae (*Pseudocorynopoma doriae*) | W.S.Serra | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Pseudocorynopoma_doriae.jpg) |
+| Chaca chaca (*Chaca chaca*) | Dr. Keshav Kumar Jha | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Chaca_chaca.JPG) |
+| Chrysichthys sharpii (*Chrysichthys sharpii*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Glyptothorax trilineatus (*Glyptothorax trilineatus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Loricariichthys maculatus (*Loricariichthys maculatus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Mystus bleekeri (*Mystus bleekeri*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Ompok pabda (*Ompok pabda*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Panaque cochliodon (*Panaque cochliodon*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Peckoltia brevis (*Peckoltia brevis*) | Hantanplan | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Peckoltia-brevis.JPG) |
+| Pseudohemiodon laticeps (*Pseudohemiodon laticeps*) | Germán Saigo | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Pseudohemiodon_laticeps.jpg) |
+| Pterygoplichthys joselimaianus (*Pterygoplichthys joselimaianus*) | 5snake5 | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Glyptoperichthys_joselimaianus_L-001.jpg) |
+| Sisor rabdophorus (*Sisor rabdophorus*) | Beta Mahatvaraj | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Sisor_rabdophorus.jpg) |
+| Sturisomatichthys leightoni (*Sturisomatichthys leightoni*) | Nerezza | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Sturisomatichthys_leightoni.jpg) |
+| Synodontis afrofischeri (*Synodontis afrofischeri*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Synodontis clarias (*Synodontis clarias*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Synodontis nigrita (*Synodontis nigrita*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Synodontis pleurops (*Synodontis pleurops*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Tatia intermedia (*Tatia intermedia*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Koemaparoe (*Cichlasoma bimaculatum*) | Carl H. Eigenmann | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:FMIB_52310_Cichlasoma_brimaculatum_L.jpeg) |
+| Crenicichla vittata (*Crenicichla vittata*) | Gabriel Albelda | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Crenicichla_vittata_266275701.jpg) |
+| Guianacara geayi (*Guianacara geayi*) | Julien Renoult | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Guianacara_geayi_5587770.jpg) |
+| Guianacara owroewefi (*Guianacara owroewefi*) | Julien Renoult | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Guianacara_owroewefi_5587337.jpg) |
+| Guianacara sphenozona (*Guianacara sphenozona*) | Jonathan (Jon) Armbruster | CC BY 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Guianacara_sphenozona_(6260217551).jpg) |
+| Guianacara stergiosi (*Guianacara stergiosi*) | David Hruaia | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Guianacara_stergiosi.jpg) |
+| Hemichromis fasciatus (*Hemichromis fasciatus*) | Jonathan (Jon) Armbruster | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hemichromis_fasciatus_AUM_59594.jpg) |
+| Lamprologus meleagris (*Lamprologus meleagris*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Neolamprologus brevis (*Neolamprologus brevis*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Retroculus lapidifer (*Retroculus lapidifer*) | Tsssss | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Retroculus_lapidifer_63872148.jpg) |
+| Ctenopoma muriei (*Ctenopoma muriei*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
