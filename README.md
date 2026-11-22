@@ -4,7 +4,7 @@ Soortenlijst en afbeeldingen voor een persoonlijke Android-app om aquaria bij te
 
 ## Wat erin staat
 
-- `species.json`: 875 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
+- `species.json`: 1028 zoetwatersoorten (dieren en planten) met temperatuur, pH, grootte, minimale bakgrootte, groepsgrootte, karakter en verzorging. De waarden komen uit algemeen bekende aquariumkennis, gecontroleerd met openbare bronnen, en zijn in eigen woorden opgeschreven.
 - `afbeeldingen/<id>.webp`: één afbeelding per soort, 512 × 512 pixels.
 
 ## Afbeeldingen en licenties
@@ -863,6 +863,159 @@ Twee afbeeldingen zijn met AI gemaakt (lokale ComfyUI), omdat er geen bruikbare 
 | Girardinus metallicus (*Girardinus metallicus*) | Livebearerguy | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Girardinus_metallicus_(metal_girardinus).jpg) |
 | Belonesox belizanus (*Belonesox belizanus*) | Nick Tobler (Cowturtle) | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Belonesox_belizanus_457725894.jpg) |
 | Ctenopoma kingsleyae (*Ctenopoma kingsleyae*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Microctenopoma fasciolatum (*Microctenopoma fasciolatum*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Betta channoides (*Betta channoides*) | Ryan O.Hershey | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Betta_channoides_female_09-07-2025.jpg) |
+| Betta pugnax (*Betta pugnax*) | CheongWeei Gan | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Betta_pugnax_214309578.jpg) |
+| Betta foerschi (*Betta foerschi*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Parosphromenus nagyi (*Parosphromenus nagyi*) | Zakqary Roy | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Parosphromenus_nagyi.jpg) |
+| Thiara cancellata (*Thiara cancellata*) | H. Zell | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Thiara cancellata 01.JPG) |
+| Vittina coromandeliana (*Vittina coromandeliana*) | H. Zell | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Vittina coromandeliana 01.JPG) |
+| Vittina variegata (*Vittina variegata*) | H. Zell | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Vittina variegata 01.JPG) |
+| Brotia binodosa (*Brotia binodosa*) | H. Zell | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Brotia binodosa 01.JPG) |
+| Pseudosphromenus cupanus (*Pseudosphromenus cupanus*) | renjus box | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Pseudosphromenus_cupanus_209937000.jpg) |
+| Pseudosphromenus dayi (*Pseudosphromenus dayi*) | Beta Mahatvaraj | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Pseudosphromenus_dayi_hi_res.jpg) |
+| Ctenops nobilis (*Ctenops nobilis*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Sphaerichthys vaillanti (*Sphaerichthys vaillanti*) | Gouramii | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Sphaerichthys_vaillanti_above_Java_moss.jpg) |
+| Parambassis ranga (*Chanda ranga*) | opencage | CC BY-SA 2.5 | [Commons](https://commons.wikimedia.org/wiki/File:Parambassis_ranga_2.jpg) |
+| Lanistes ellipticus (*Lanistes ellipticus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Lanistes farleri (*Lanistes farleri*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Pila ampullacea (*Pila ampullacea*) | H. Zell | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Pila ampullacea 01.JPG) |
+| Pila scutata (*Pila scutata*) | H. Zell | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Pila scutata 01.jpg) |
+| Septaria cumingiana (*Septaria cumingiana*) | Manuel CABALLER | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Septaria cumingiana (MNHN-IM-2000-32543).jpeg) |
+| Thiara amarula (*Thiara amarula*) | GUERY G. | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Thiara amarula (MNHN-IM-2012-27686) 001.jpeg) |
+| Helisoma anceps (*Helisoma anceps*) | Smithsonian Environmental Research Center | CC BY 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Helisoma anceps ACLT 07-30-17 0574 (40175364492).jpg) |
+| Cipangopaludina japonica (*Cipangopaludina japonica*) | Judy Gallagher | CC BY 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Japanese Mystery Snail - Cipangopaludina japonica, Leesylvania State Park, Woodbridge, Virginia.jpg) |
+| Clea nigricans (*Clea nigricans*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Lanistes congicus (*Lanistes congicus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Lanistes nyassanus (*Lanistes nyassanus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Vittina semiconica (*Vittina semiconica*) | H. Zell | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Vittina semiconica 01.JPG) |
+| Sulcospira testudinaria (*Sulcospira testudinaria*) | Wibowo Djatmiko (Wie146) | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Sulcos testud 150107-48503 tdp.JPG) |
+| paarse Lanistes (*Lanistes purpureus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| rivierlimpet (*Septaria porcellana*) | H. Zell | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Septaria porcellana 01.jpg) |
+| Brotia herculea (*Brotia herculea*) | H. Zell | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Brotia herculea 01.JPG) |
+| Tylomelania toradjarum (*Tylomelania toradjarum*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Tylomelania davisi (*Tylomelania davisi*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Indiase appelslak (*Pila globosa*) | Tripathy B, Sajan S, Cowie RH | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Ampullaria globosa var minor (10.3897-zse.96.47792) Figure 8.jpg) |
+| Brotia costula (*Brotia costula*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Afrikaanse appelslak (*Lanistes ovum*) | W. Liepoldt | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:Lanistes ovum shell.png) |
+| Tylomelania sarasinorum (*Tylomelania sarasinorum*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| pagodeslak (*Brotia pagodula*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| zebra-appelslak (*Asolene spixii*) | H. Zell | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Asolene spixii 01.JPG) |
+| gebouwde torenslak (*Tarebia granifera*) | H. Zell | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Tarebia granifera 001.JPG) |
+| Tylomelania gemmifera (*Tylomelania gemmifera*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Cherax parvus (*Cherax parvus*) | Noémy MOLLARET | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Cherax parvus (MNHN-IU-2014-23203) 001.jpeg) |
+| Limnocaridina latipes (*Limnocaridina latipes*) | Laura FLAMME | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Limnocaridina latipes (MNHN-IU-2014-20573).jpeg) |
+| Macrobrachium potiuna (*Macrobrachium potiuna*) | Diogo Luiz | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Macrobrachium potiuna.jpg) |
+| oranje konijnslak (*Tylomelania patriarchalis*) | H. Zell | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Tylomelania patriarchalis 01.JPG) |
+| reuzenschijfhoren (*Marisa cornuarietis*) | H. Zell | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Marisa cornuarietis 01.JPG) |
+| Procambarus acutus (*Procambarus acutus*) | B. Sch. (Wikimedia Commons-gebruiker) | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Procambarus acutus (Cambaridae), Elst (Gld), the Netherlands.jpg) |
+| Mexicaanse dwergkreeft (*Cambarellus montezumae*) | Walter Faxon | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:FMIB 53493 Cambarus Montezumae, var trideus Von Mart Female Mexico.jpeg) |
+| Caridina linduensis (*Caridina linduensis*) | Laura FLAMME | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Caridina linduensis (MNHN-IU-2015-1816).jpeg) |
+| Caridina pareparensis (*Caridina pareparensis*) | Laura Flamme | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Caridina pareparensis (MNHN-IU-2015-1922).jpeg) |
+| Caridina spongicola (*Caridina spongicola*) | Yixiong Cai, Kristina Zitzler e.a. | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Caridina spongicola.png) |
+| Cherax misolicus (*Cherax misolicus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Procambarus bouvieri (*Procambarus bouvieri*) | Laura Flamme | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Procambarus bouvieri (MNHN-IU-2014-23214) 001.jpeg) |
+| Procambarus pubescens (*Procambarus pubescens*) | Walter Faxon | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:FMIB 53485 Cambarus pubescens Fax Male, form II McBean Creek, Ga.jpeg) |
+| Procambarus simulans (*Procambarus simulans*) | Walter Faxon | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:FMIB 53484 Cambarus simulans Fax Male, form I Dallas, Tex.jpeg) |
+| Procambarus spiculifer (*Procambarus spiculifer*) | Walter Faxon | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:FMIB 53492 Cambarus spiculifer Hag Male, form I Athens, Ga.jpeg) |
+| Etroplus maculatus (*Pseudetroplus maculatus*) | DanielloFlorenco | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Etroplus_maculatus.jpg) |
+| Oryzias hubbsi (*Oryzias hubbsi*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Oryzias marmoratus (*Oryzias marmoratus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Hemirhamphodon pogonognathus (*Hemirhamphodon pogonognathus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Dermogenys pusilla (*Dermogenys pusilla*) | -serwacy01- | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Dermogenys_pusillaA.jpg) |
+| Nomorhamphus liemi (*Nomorhamphus liemi*) | Vassil | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Zoo_Köln_Nomorhamphus_liemi_31122014_1.jpg) |
+| Danionella translucida (*Danionella translucida*) | Geni | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Danionella_translucida_bolton_aquarium.JPG) |
+| Papyrocranus afer (*Papyrocranus afer*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Stekelaal (*Mastacembelus armatus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Macrognathus aculeatus (*Macrognathus aculeatus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Epalzeorhynchos munensis (*Epalzeorhynchos munense*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Stiphodon atropurpureus (*Stiphodon atropurpureus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Hemigrammus guyanensis (*Holopristis guyanensis*) | Staatliche Naturwissenschaftliche Sammlungen Bayerns | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hemigrammus_guyanensis_(SNSB-ZSM).jpg) |
+| Hyphessobrycon peruvianus (*Hyphessobrycon peruvianus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Hyphessobrycon ecuadoriensis (*Hyphessobrycon ecuadoriensis*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Moenkhausia cotinho (*Moenkhausia cotinho*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Moenkhausia copei (*Moenkhausia copei*) | Jonathan (Jon) Armbruster | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Moenkhausia_copei_Armbruster.jpg) |
+| Moenkhausia megalops (*Moenkhausia megalops*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Nematocharax venustus (*Nematocharax venustus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Stethaprion crenatum (*Stethaprion crenatum*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Hasemania crenuchoides (*Psalidodon crenuchoides*) | Serra, Jane Piton; Langeani, Francisco | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hasemania_crenuchoides_(DZSJRP_14185).png) |
+| Aphyocharax alburnus (*Aphyocharax alburnus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Astyanax bimaculatus (*Astyanax bimaculatus*) | Diogo Luiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Astyanax_bimaculatus_46805630.jpg) |
+| Astyanax aeneus (*Astyanax aeneus*) | Arthur de Jesús Chavarría Pérez | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Astyanax_aeneus_(Wild)_1.jpg) |
+| Triportheus albus (*Triportheus albus*) | Gabriel Lelis Togni | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Triportheus_albus_(39467).jpg) |
+| Chalceus erythrurus (*Chalceus erythrurus*) | NasserHalaweh | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Characidae_Chalceus_erythrurus_1.jpg) |
+| Gebochelde karperzalm (*Charax gibbosus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Serrasalmus elongatus (*Serrasalmus elongatus*) | w_endo | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Serrasalmus_elongatus_205539269.jpg) |
+| Pristobrycon calmoni (*Pristobrycon calmoni*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Myloplus asterias (*Myloplus asterias*) | M.C. Andrade | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Myloplus_asterias.jpg) |
+| Leporinus maculatus (*Leporinus maculatus*) | Daniel Laurent | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:Leporinus_maculatus.jpg) |
+| Schizodon fasciatus (*Schizodon fasciatus*) | Whaldener Endo | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Schizodon_fasciatus_204782614.jpg) |
+| Pyrrhulina australis (*Pyrrhulina australis*) | Aspostbus | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Pyrrhulina_australis.jpg) |
+| Nannostomus anduzei (*Nannostomus anduzei*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Nannocharax fasciatus (*Nannocharax fasciatus*) | Jonathan (Jon) Armbruster | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Nannocharax_fasciatus_AUM_59611.jpg) |
+| Pseudomugil cyanodorsalis (*Pseudomugil cyanodorsalis*) | Andrewbogott | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Pseudomugil_cyanodorsalis.jpg) |
+| Bedotia madagascariensis (*Bedotia madagascariensis*) | Manuel M. | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bedotia_madagascariensis.jpg) |
+| Dermogenys sumatrana (*Dermogenys sumatrana*) | Neale Monks | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Dermogenys_sumatrana_02.jpg) |
+| Pachypanchax varatraza (*Pachypanchax varatraza*) | KillisBS | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Pachypanchax_varatraza_Männchen_der_blauen_Morphe.jpg) |
+| Austrolebias bellottii (*Austrolebias bellottii*) | Pablo H Capovilla | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Austrolebias_bellottii_57495976.jpg) |
+| Austrolebias elongatus (*Titanolebias elongatus*) | Leonel Roget | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Austrolebias_elongatus_52188057.jpg) |
+| Austrolebias charrua (*Garcialebias charrua*) | W.S.Serra | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Austrolebias_charrua.jpg) |
+| Gambusia punctata (*Gambusia punctata*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Brachyrhaphis rhabdophora (*Brachyrhaphis rhabdophora*) | Nick Tobler (Cowturtle) | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Brachyrhaphis_rhabdophora_399303675.jpg) |
+| Brachyrhaphis roseni (*Brachyrhaphis roseni*) | Livebearerguy | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Brachyrhaphis_roseni_(2).jpg) |
+| Brachyrhaphis terrabensis (*Brachyrhaphis terrabensis*) | Andrew Furness | CC BY-SA 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Brachyrhaphis_terrabensis.jpg) |
+| Phalloceros harpagos (*Phalloceros harpagos*) | Victor de Brito and Paulo Andreas Buckup | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Phalloceros_harpagos.png) |
+| Girardinus uninotatus (*Girardinus uninotatus*) | Livebearerguy | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Girardinus_uninotatus_(2).jpg) |
+| Poecilia caucana (*Poecilia caucana*) | Ewout Knoester | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Poecilia_caucana.jpeg) |
+| Poecilia gillii (*Poecilia gillii*) | Jorasm | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Poecilia_gilli_-_male.jpg) |
+| Poecilia sulphuraria (*Poecilia sulphuraria*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Xiphophorus meyeri (*Xiphophorus meyeri*) | Livebearerguy | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Xiphophorus_meyeri_(1).jpg) |
+| Chapalichthys pardalis (*Chapalichthys pardalis*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Betta dimidiata (*Betta dimidiata*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Betta falx (*Betta falx*) | Ahsan_al_hidayat | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Betta_falx.jpg) |
+| Ctenopoma multispine (*Ctenopoma multispine*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Ctenopoma ocellatum (*Ctenopoma ocellatum*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Microctenopoma nanum (*Microctenopoma nanum*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Channa pulchra (*Channa pulchra*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Parachanna africana (*Parachanna africana*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Parachanna insignis (*Parachanna insignis*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Apistogramma pertensis (*Apistogramma pertensis*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Laetacara thayeri (*Laetacara thayeri*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Satanoperca acuticeps (*Satanoperca acuticeps*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Crenicichla lugubris (*Lugubria lugubris*) | Whaldener Endo | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Crenicichla_lugubris_204987076.jpg) |
+| Crenicichla johanna (*Lugubria johanna*) | Theo Modder | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Crenicichla_johanna_(Theo_Modder).jpg) |
+| Crenicichla percna (*Lugubria percna*) | P. Petersen | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Crenicichla_percna_(hr_Crper_u4).jpg) |
+| Crenicichla menezesi (*Crenicichla menezesi*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Crenicichla wallacii (*Wallaciia wallacii*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Cichla temensis (*Cichla temensis*) | SimonovichF | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Cichla_Temensis_from_Cinaruco1.jpg) |
+| Astronotus crassipinnis (*Astronotus crassipinnis*) | Alex Popovkin, Bahia, Brazil | CC BY 2.0 | [Commons](https://commons.wikimedia.org/wiki/File:Astronotus_crassipinnis_(Heckel,_1840)_(21531799072).jpg) |
+| Andinoacara coeruleopunctatus (*Andinoacara coeruleopunctatus*) | Carlos Ceballos | CC0 | [Commons](https://commons.wikimedia.org/wiki/File:Andinoacara_coeruleopunctatus_206733047.jpg) |
+| Bujurquina vittata (*Bujurquina vittata*) | Jan Ebr | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bujurquina_vittata_285782803.jpg) |
+| Chaetobranchus flavescens (*Chaetobranchus flavescens*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Chaetobranchopsis orbicularis (*Chaetobranchopsis orbicularis*) | Ramon and Suzanne Vargas | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Chaetobranchopsis_orbicularis_142495428.jpg) |
+| Cichlasoma orientale (*Cichlasoma orientale*) | Breno Figueiredo | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Cichlasoma_orientale,_avistamento_Iguatu,_Ceará_1.jpg) |
+| Discustetra (*Brachychalcinus orbicularis*) | François-Louis Laporte, comte de Castelnau | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:Brachychalcinus_orbicularis.jpg) |
+| Carnegiella myersi (*Carnegiella myersi*) | opencage | CC BY-SA 2.5 | [Commons](https://commons.wikimedia.org/wiki/File:Carnegiella_myersi.jpg) |
+| Nannostomus espei (*Nannostomus espei*) | SelEle-MS | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Nannostomus-espei.jpg) |
+| Roeboides descalvadensis (*Roeboides descalvadensis*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Synaptolaemus latofasciatus (*Synaptolaemus latofasciatus*) | Gabriel Lelis Togni | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Synaptolaemus_latofasciatus.jpg) |
+| Tetragonopterus chalceus (*Tetragonopterus chalceus*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Crossocheilus langei (*Crossocheilus langei*) | AI-beeld, zelf gemaakt met ComfyUI | — | — |
+| Desmopuntius hexazona (*Desmopuntius hexazona*) | Rupert A. Collins | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Puntius_hexazona.jpg) |
+| Devario auropurpureus (*Devario auropurpureus*) | Rupert A. Collins | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Devario_auropurpureus.jpg) |
+| Devario pathirana (*Devario pathirana*) | Rupert A. Collins | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Devario_pathirana.jpg) |
+| Hampala macrolepidota (*Hampala macrolepidota*) | AVNJ | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Hampala_macrolepidota_251680991.jpg) |
+| Kottelatia brittani (*Kottelatia brittani*) | Rupert A. Collins | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Kottelatia_brittani.jpg) |
+| Cherax holthuisi (*Cherax holthuisi*) | JIBON | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Cherax holthuisi - Apricot crayfish (চিংড়ি) 01.jpg) |
+| Cherax alyciae (*Cherax alyciae*) | Thomas von Rintelen, Rury Eprilurahman & | CC BY 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Cherax alyciae 2.jpg) |
+| Caridina weberi (*Caridina weberi*) | Laura FLAMME | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Caridina weberi (MNHN-IU-2015-1755).jpeg) |
+| Caridina serrata (*Caridina serrata*) | Chen Q-H, Chen W-J, Zheng X-Z, Guo Z-L ( | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Caridina serrata (10.3897-zookeys.923.48593) Figure 3 (cropped).jpg) |
+| Caridina lanceifrons (*Caridina lanceifrons*) | Tu et al. (2021) | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Caridina lanceifrons (10.3897-BDJ.9.e70289) Figure 7b.jpg) |
+| Atya innocous (*Atya innocous*) | Iconographia Zoologica, Bijzondere Collecties Universiteit van Amsterdam | Publiek domein | [Commons](https://commons.wikimedia.org/wiki/File:Cancer innocous - - Print - Iconographia Zoologica - Special Collections University of Amsterdam - UBAINV0274 097 06 0005.tif) |
+| Atya scabra (*Atya scabra*) | [Photo: Alves, DFR] Barros-Alves Samara | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Atya scabra (10.1590-2358-2936e2021009) Figure 1.jpg) |
+| Atyopsis spinipes (*Atyopsis spinipes*) | Laura FLAMME | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Atyopsis spinipes (MNHN-IU-2014-20693).jpeg) |
+| Caridina caerulea (*Caridina caerulea*) | Klotz W, von Rintelen T, Wowor D, Lukhau | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Caridina caerulea (10.3897-zookeys.1009.54303) Figure 2 (cropped-C).jpg) |
+| Caridina ensifera (*Caridina ensifera*) | Klotz W, von Rintelen T, Wowor D, Lukhau | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Caridina ensifera (10.3897-zookeys.1009.54303) Figure 2 (cropped-D).jpg) |
 | Dwerganubias (*Anubias barteri var. nana*) | Krzysztof Ziarnek, Kenraiz | CC BY-SA 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Anubias_barteri_var._nana_kz01.jpg) |
 | Javavaren (*Microsorum pteropus*) | Fhurzan | CC BY-SA 3.0 | [Commons](https://commons.wikimedia.org/wiki/File:Java_Fern_(Microsorum_pteropus)_growing_in_the_wild..jpg) |
 | Bucephalandra (*Bucephalandra sp.*) | Manuel Werner | CC BY 4.0 | [Commons](https://commons.wikimedia.org/wiki/File:Bluish_sheen_on_Bucephalandra_2_Foto_MWerner.jpg) |
